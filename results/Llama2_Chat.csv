@@ -1,0 +1,451 @@
+predicted,target,RewriteLabel,DatasetLabel
+Adhere to the tone of an official government document,Revise the message to adhere to the tone of an official government document.,Formality_fix,forum_messages
+Improve the readability and clarity of the text by simplifying the language and organizing the information in a more logical and coherent manner.,Describe without using scientific terms,language,eli5-human
+Improve clarity and professionalism in a message about setting up a remote instance and connecting to it.,Turn this into a description of a chariot race.,Theme_change,openwebtext
+Simplify the language and make it more conversational,Reenvision this as a dialogue between aliens.,Genre_change,openwebtext
+"Write a vivid and imaginative description of a football game, using metaphors and similes to create a sense of excitement and drama.",Reconfigure this into a cyberpunk setting.,Genre_change,eli5-chatgpt
+Transform a factual text about a moth species into a mystical and poetic description of a mythical creature.,Describe using everyday language,language,openwebtext
+"Take a popular sport or activity and reimagine it in a futuristic/cyberpunk setting, highlighting the unique skills and technologies required to excel in this new environment.
+",Revise the message to match the formalities of an international symposium.,Formality_fix,forum_messages
+"Simplify the language and structure to make the text more concise and easier to read.
+",Transform this into a conflict in a digital world.,Genre_change,eli5-chatgpt
+Simplify the language and make it more formal,Illustrate the advantages of engaging with:,Enhancement,forum_messages
+"Create a futuristic/cyberpunk version of the original text, where digital beings are the creators of flawless digital objects.",Make this as text a melancholic indie folk melody,music,openwebtext
+" Improve the clarity and readability of the text by simplifying the language, organizing the content in a more logical and structured manner, and adding more polished language to make it sound more professional.
+",Rewrite this as as a cross-country road trip plot,creative,openwebtext
+"Write a poem that uses imagery and symbolism to evoke a sense of nostalgia and melancholy, using the year 1990 as a focal point.
+",Rewrite this as as a poignant choral arrangement,music,openwebtext
+Transform a factual text about a small town into a poetic and imaginative description of the town's atmosphere and sense of isolation.,Remodel the message to ensure it adheres to academic standards.,Theme_change,forum_messages
+"Write a poem that uses alliteration and assonance to create a musical quality, while still conveying the same meaning as the original text.",Adopt this as as a driving punk rock anthem,music,eli5-chatgpt
+ Improve Clarity and Organization,Break it down for a child,language,eli5-human
+"Write a creative and engaging piece of writing that takes a serious topic (in this case, cholesterol) and transforms it into an upbeat and energetic punk rock anthem. Use vivid imagery, strong language, and a catchy rhythm to make the topic more accessible and enjoyable for a young adult audience.",Transform a college application essay into a recommendation letter by a teacher.,Perspective_shift,eli5-chatgpt
+"Write a rewritten text for a child audience, using simple language and relatable examples to explain complex concepts.
+",Rewrite this as as a survival horror plot,creative,eli5-chatgpt
+"Write a recommendation letter for a college application, highlighting the student's analytical thinking, critical thinking, and personal qualities.
+",Rewrite this from passive to active voice.,Active/Passive,eli5-chatgpt
+"Take a mundane technical topic (file server) and transform it into a thrilling horror story.
+
+",Restructure the text into a formal report.,language,eli5-human
+Simplify the language and structure for a younger audience.,Adopt the suspenseful pacing of Lee Child to alter the segment.,Style_mimic,eli5-chatgpt
+Improve the organization and clarity of the text by using specific techniques and tools to manage unwanted or irrelevant aspects of a project.,Translate the text to reflect the format of educational resource sharing.,Paraphrasing,forum_messages
+" Write a formal report on the methods used by ancient civilizations to create maps, focusing on their techniques and limitations.",Convert this into an old western showdown narration.,Tone_change,openwebtext
+"Write a passage in the style of Lee Child, comparing and contrasting condos and apartments as homes.
+",Elaborate in simple words,language,eli5-human
+Clarify process and conflict of interest,Share the opinion from the viewpoint of someone who holds an opposing belief or preference.,Perspective_shift,forum_messages
+"Write a scene that takes place in a dusty, atmospheric setting, where a powerful woman from a noble family is shown to be contemplative and introspective, with a sense of foreboding and danger lurking in the shadows. ",Rewrite this from passive to active voice.,Active/Passive,eli5-human
+Clarify the action and receiver for the reader,Rewrite this as a therapy session summary.,Enhancement_Details,eli5-chatgpt
+Simplify the language and clarify the meaning of the text for a younger audience.,Rewrite this as as a cowboy showdown plot,creative,Poetry
+"Clarify and provide additional information to address the reader's concerns about the 100 test tasks used in the data page.
+",Transform from passive to active voice.,Active/Passive,eli5-chatgpt
+Improve readability by rewriting in active voice and simplifying language.,Present it in a way that's accessible to a young audience,language,eli5-human
+Summarize the main points of a conversation or discussion in a clear and concise manner.,Enhance this as recipe to include more detailed step-by-step instructions.,Enhancement_Details,eli5-chatgpt
+"Take a character from a surreal/fantastical setting and transplant them into a classic Western showdown scenario.
+",Mimic the poetic and rhythmic style of Maya Angelou in the following message.,Style_change,forum_messages
+Simplify the language and structure to make the text more concise and easier to understand.,Rewrite a complaint or negative feedback from the perspective of the person or entity the complaint is directed at.,Perspective_shift,forum_messages
+"Write a more formal and academic version of the text, while still maintaining the same level of clarity and readability.",Condense this as lecture notes.,Conciseness,eli5-human
+"Write a text that explains a complex artistic movement in a fun and engaging way, using relatable language and imagery.",Change the text wording from passive to active voice.,Active/Passive,eli5-chatgpt
+Consider the game's overall fun factor and exaggerate distances to make the game more exciting and engaging for the player.,Modify from passive to active voice.,Active/Passive,eli5-human
+"Write a more creative and engaging response to Jiwon Park's question about the SVD components, using a more poetic and conversational tone.",Modify the formality level of this as post about a cultural festival.,Formality_fix,eli5-chatgpt
+Improve readability and clarity,Rephrase the text to simulate the style of coding practice descriptions.,Paraphrasing,forum_messages
+"Write a rewritten version of the source text as lecture notes, focusing on the limitations and potential drawbacks of wind energy.",Present it in a way that's easy for kids to understand,language,eli5-human
+Simplify the language and structure for a younger audience.,Modify the formality level of this as description of a new fitness program.,Formality_fix,eli5-chatgpt
+Rewrite the text in active voice and clarify the meaning of imaginary exponents.,Rewrite this as as a courtroom drama plot,creative,openwebtext
+Rewrite Prompt: Simplify complex language and reduce unnecessary words to improve readability and comprehension.,Convert a structured conference talk.,Professional_settings,eli5-human
+"Transform a technical or scientific description into a more engaging and descriptive narrative, while maintaining the core information and concepts.",Break it down for a child to understand,language,eli5-human
+Simplify the language and make it easier for children to understand.,Make this description shorter and to the point.,Conciseness,openwebtext
+"Simplify and clarify the language to make the text more concise and easier to understand, while maintaining the main ideas and tone of the original text.
+",Make this sound like a time traveler's notes.,Tone_change,eli5-chatgpt
+"Write a dramatic retelling of a song as a courtroom drama, with the song serving as the central mystery.",Expand this as a book review.,Enhancement_Details,openwebtext
+"Write a structured conference talk on the findings of a study on major American TV news outlets, focusing on the concerning trends in the way the news is being presented and the implications for democracy and public opinion.",Revise into a formal professional biography.,Professional_settings,eli5-human
+ Make the text easy for a child to understand.,Modify the review to be more balanced and developmental:,Professional_settings,forum_messages
+"Simplify and clarify the language to make the text more accessible to a general audience.
+",Convert this as fashion magazine article into a Victorian era letter.,Theme_change,openwebtext
+"Write a passage in the style of a time traveler's notes, describing a historical event or era in a more engaging and immersive way.",Explain in an educational tutorial for students.,Genre_change,forum_messages
+" Improve the clarity and readability of the text by simplifying complex sentences and using more concise language.
+",Explain without using technical terms,language,openwebtext
+"Write a formal professional biography style description of a familiar setting, using vivid and detailed language to convey a sense of comfort and security.
+",Convert this as live concert review into a review of a royal court performance.,Theme_change,eli5-chatgpt
+"Analyze the impact of technological advancements on various aspects of society, including the job market, communication and collaboration, access to information, consumer behavior, and cybersecurity concerns. ",Clarify using words a child would know,language,eli5-human
+ Emphasize the differences between early stopping and saving models based on validation.,Transform the article using the investigative style of Hunter S. Thompson.,Style_mimic,eli5-chatgpt
+"Write a more balanced and developmental review of the competition, highlighting the importance of understanding the metric and data, as well as the need to adapt and improve throughout the competition.
+
+",Rewrite this from passive to active voice.,Active/Passive,eli5-human
+ transform the text into a more elegant and polished piece of writing.,Transform this into a character study in a speculative fiction.,Genre_change,eli5-chatgpt
+" improve the readability and clarity of the text by simplifying language, organizing ideas, and adding more descriptive language.",Discuss the impact or importance of a topic from the viewpoint of someone negatively affected by it.,Perspective_shift,forum_messages
+"provides a more polished and coherent summary of the original text, with a clear and specific focus on the proposed system and its objectives.",Make this text more concise.,Conciseness,eli5-human
+"Encourage audience engagement and discussion
+",Rescript this into a tale of digital espionage.,Genre_change,Poetry
+"Simplify language and structure for clarity and readability.
+
+","Please rewrite the sentence using active voice, clearly identifying the initiator of the action.",Active/Passive,forum_messages
+"Compare and contrast the Micro F1 score and the F1 score in the context of platform evaluations, highlighting the advantages and limitations of each score.",Adjust the text from passive to active voice.,Active/Passive,eli5-human
+"  Write a critical review of a recent performance or artistic work, using the royal court's jesters as a case in point.",Reformulate the proposal to highlight the benefits and expected outcomes:,Professional_settings,forum_messages
+" Write a revised version of the text that uses simpler language and a more child-friendly tone, while still conveying the same meaning.
+
+",Clarify using basic language,language,eli5-human
+" Simplify complex language and clarify instructions for users.
+
+",Describe the event from the viewpoint of a bystander who has a different emotional reaction.,Perspective_shift,forum_messages
+" Simplify complex language and make it more concise.
+",Elaborate in terms understandable to a child,language,openwebtext
+" Write a passage in a casual, conversational tone, using slang and colloquial expressions to make the text more relatable and engaging for a young adult audience.
+
+",Change this as modern travelogue into an explorer's log from the 1400s.,Theme_change,eli5-chatgpt
+" Convert the text from passive voice to active voice.
+
+",Redraft the document to align with corporate board meeting standards.,Formality_fix,forum_messages
+" Take a scientific concept or phenomenon and transform it into a fantastical or fictional world, using vivid and imaginative language to describe the process and its effects.
+
+",Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+" ""Highlight your skills and experience while showing enthusiasm for learning and collaboration.""
+
+",Enhance this as a technical guide.,Enhancement_Details,openwebtext
+" Improve the clarity and readability of the original text by rephrasing and reorganizing the content to make it more concise and easier to understand.
+
+",Imitate the humorous style of P.G. Wodehouse in the text.,Style_mimic,openwebtext
+" Reframe the text to show empathy and support
+",Make this sound like a travel brochure.,Tone_change,Poetry
+"Simplify the language and structure for a general audience.
+
+",Expand this as game review to include more detailed descriptions of gameplay mechanics.,Enhancement_Details,openwebtext
+" Simplify the language and structure for a general audience.
+
+",Recompose the description into a formal marketing material.,Professional_settings,eli5-chatgpt
+" transform the original text into a more ominous and mysterious piece of writing, with a focus on abstract imagery and complex language. ",Put it in layman's terms,language,openwebtext
+" Use active voice and clearly identify the initiator of the action in each sentence.
+
+",Craft as a personalized thank-you card.,Genre_change,forum_messages
+"Improve readability and clarity by rewriting in active voice and simplifying language.
+
+",Revise the message for an official press release requiring elevated language.,Formality_fix,forum_messages
+" Simplify the language and tone
+
+",Describe this as as a sultry bossa nova jazz standard,music,openwebtext
+"Simplify language and make it more basic for a general audience.
+
+",Revise into a formal professional biography.,Professional_settings,eli5-human
+A skeptical and confused bystander's perspective on the Kernel Test Event.,Shorten this as a dessert recipe.,Conciseness,openwebtext
+Simplify the language and structure for a general audience.,Navigate the afterlife with the quilt as your guide,creative,eli5-chatgpt
+"Improve the clarity and engagement of the message by using simpler language, providing more context, and offering a solution to the problem.
+",Rewrite the text to copy the format of an online learning course description.,Paraphrasing,forum_messages
+"Write a creative and humorous retelling of a technical concept in a medieval setting.
+",Rewrite this as a opera synopsis.,Conciseness,eli5-chatgpt
+"Transform the original text into a more formal and professional tone, while providing a clearer structure and more detailed explanations of the issue and proposed solutions. ",Restructure the message to make it more appealing to a global audience.,Theme_change,forum_messages
+"Explain the reasoning behind your choice of algorithm""
+
+",Adjust the message to highlight key points more prominently.,Theme_change,forum_messages
+"Simplify the language and structure for a general audience
+",Rephrase the statement to meet the norms of a professional panel discussion.,Formality_fix,forum_messages
+" Write a poem that describes a village in a whimsical or imaginative way, using figurative language and creative word choices.
+
+",Modify the text to focus on problem-solving aspects.,Theme_change,forum_messages
+"Write a descriptive paragraph that uses sensory details to evoke a sense of peace and tranquility.
+
+",Rewrite this as as a space exploration thriller plot,creative,eli5-chatgpt
+" Write a game review of a specific player, focusing on their strengths, skills, and impact on the team.
+
+",Shorten this as a dessert recipe.,Conciseness,eli5-human
+"Write a more formal and detailed description of the process of describing 3D shapes in 3D files, using technical vocabulary and a more structured format.
+
+",Adopt the futuristic narrative style of Philip K. Dick for the excerpt.,Style_mimic,eli5-chatgpt
+"Simplify the language and structure for a general audience.
+
+",Revise the text to reflect a more informal and conversational style.,Theme_change,forum_messages
+"create a more personalized and empathetic response to the user, while also simplifying the language and structure to make it easier for a wider audience to understand.",Rewrite this as as a ghost hunting adventure plot,creative,openwebtext
+" ""Simplify and clarify the language for a wider audience""
+
+",Transform this as graduation speech into a knight's oath ceremony.,Theme_change,eli5-chatgpt
+"Transform the text into a poem with a jazz-age tone, focusing on Michelsen's role in uniting Norway and his impact on the country's history.
+
+",Adopt the writing style of Virginia Woolf to alter the text below.,Style_change,forum_messages
+"  Write a formal professional biography of a scientist or researcher, highlighting their contributions to a specific field of study.
+
+",Rewrite this as a gardening guide.,Paraphrasing,openwebtext
+"Simplify and clarify the language, while maintaining the essential information.
+",Paraphrase this as as marketing pitch to sound more casual.,Paraphrasing,openwebtext
+" Use a metaphor or analogy to compare the process of navigating the afterlife to a specific creative process, such as drawing or crafting.
+
+",Explain without using advanced vocabulary,language,openwebtext
+" Write a course description for an online course on ""Understanding the Impact of the Latest Data Science Trends!"" that highlights the latest developments in the field of data science and their far-reaching implications.
+
+",Use simple language to explain,language,eli5-human
+"Transform a scientific article about greenhouse gases into a gripping opera plot, highlighting the battle between nature and humanity.
+
+",Expand this as a movie synopsis to provide a detailed plot description.,Enhancement_Details,eli5-chatgpt
+"Make a most significant impact in the field of AI and machine learning.
+
+",Describe without using difficult words,language,openwebtext
+"Make the message more appealing to a global audience by using more inclusive language, emphasizing the global appeal, and adding a call to action.
+
+",Rewrite this as as a space exploration plot,creative,openwebtext
+"Improve the clarity and prominence of the key points in the original text by using more prominent language and adding context.
+
+",Reformulate the text to remove any colloquialisms and make it more formal.,Theme_change,forum_messages
+"Improve the text's clarity and readability by simplifying language, rephrasing sentences, and adding more specific details.
+
+",Rewrite this as as a fairy tale retelling plot,creative,eli5-chatgpt
+" Focus on problem-solving aspects and provide clear instructions
+",Rewrite this as as a modern fairy tale romance plot,creative,openwebtext
+"Rewrite the text to create a more exciting and imaginative story, while still maintaining the core mathematical concept at its heart.",Modify from passive to active voice.,creative,eli5-human
+" Take a complex mathematical concept (integral) and explain it in a creative and humorous way using food metaphors.
+",Rephrase the text to simulate the style of coding practice descriptions.,Paraphrasing,forum_messages
+" Write a dystopian reimagining of a historical event, using vivid imagery and dramatic language to create a sense of tension and intrigue.
+",Rewrite a fitness blog post as a motivational speech by a personal trainer.,Perspective_shift,openwebtext
+" Use more informal language and slang to make the text sound more conversational and relatable.
+
+",Explain without using technical jargon,language,eli5-human
+"Take a piece of factual text and transform it into a spooky, supernatural story.
+
+",Recompose into formal executive summaries.,Professional_settings,openwebtext
+": Write a persuasive and imaginative rewording of the original text, emphasizing the noble and heroic qualities of IBM Watson.
+
+",Modify the formality level of this as message about changes in work schedule.,Formality_fix,eli5-chatgpt
+"Write a humorous and engaging article that presents a hypothetical dilemma and offers a clever solution, using a playful and whimsical tone.",Enhance this as a job description.,Enhancement_Details,openwebtext
+" Improve the readability and clarity of the text by simplifying the language, organizing the content in a more logical structure, and adding more specific examples to illustrate the points.
+
+",Rewrite this as as a fiery flamenco guitar solo,music,openwebtext
+":Improve the feedback for the learner by providing more specific and actionable suggestions, and organizing the suggestions into categories for easier comprehension.
+
+",Rewrite this as as a supernatural thriller plot,creative,eli5-chatgpt
+"Transform a historical event or person into a modern-day how-to guide.
+
+",Convert this into a fantasy novel excerpt.,Tone_change,openwebtext
+"Write a more informal and engaging description of a museum or cultural institution, using colloquial language and a more conversational tone.
+
+",Reformulate the proposal to highlight the benefits and expected outcomes:,Professional_settings,forum_messages
+"Simplify the language and structure for a general audience.
+
+",Modify the review to be more balanced and developmental:,Professional_settings,forum_messages
+"   Simplify language and clarify meaning
+",Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+"Write a movie plot description for a fictional film about a computer's inner workings, highlighting its various parts and their functions, as well as the computer's limitations and the process of upgrading its parts to improve its performance.
+",Streamline this as a tutorial.,creative,eli5-human
+" Simplify the language and structure for a general audience.
+",Redesign the guidelines to ensure they are comprehensive and easy to follow:,Professional_settings,forum_messages
+"Write a more mysterious and intriguing article about a lesser-known Italian wine grape variety, focusing on its origins and the conflicting opinions about its color.
+
+",Restructure the message to make it more appealing to a global audience.,Theme_change,forum_messages
+"Reformulate the text in a more formal tone, using more precise language to convey the intended meaning.
+
+",Rewrite this as a theater program synopsis.,Paraphrasing,eli5-human
+" Transform a dry and informative text about the FBI and CIA into a more engaging and fantastical narrative, while still conveying the same information.
+",Adjust the text from passive to active voice.,Active/Passive,eli5-human
+"Write a humorous and playful response to the given text, using exaggerated language and a lighthearted tone to create a sense of excitement and anticipation.
+
+",Alter this as sushi recipe into a banquet preparation for a Chinese emperor.,Theme_change,openwebtext
+"Transform a dry, technical description of a product or service into a magical and enchanting description that highlights its unique features and benefits.""
+
+",Redo this as cooking show script as an alchemist's experiment notes.,Theme_change,eli5-chatgpt
+"Convert passive voice to active voice
+",Make it clear for a young child,language,openwebtext
+"Take a serious topic (in this case, the benefits of space exploration) and rewrite it as a fun, playful, and creative dessert recipe.
+
+",Condense this as a sports game recap.,Paraphrasing,openwebtext
+"""Rephrase the text in the style of coding practice descriptions, emphasizing the benefits and value of the script and notebooks for improving NLP skills.""
+
+",Reframe this as song lyric into a Viking war chant.,Theme_change,openwebtext
+"  
+Make the text more accessible and practical for a sales strategy meeting by emphasizing the importance of data exploration and visualization in informing sales strategy, and providing concrete examples of how to apply these techniques in a real-world setting.",Express enthusiasm or approval from the viewpoint of someone who is indifferent or neutral about the subject.,Perspective_shift,forum_messages
+"Take a serious and informative text and transform it into a motivational and inspiring message.
+
+",Rewrite this as as a bittersweet country ballad,music,eli5-chatgpt
+" Simplify the language and clarify the meaning of the text for a general audience.
+",Revamp the text into a formal product analysis.,Professional_settings,openwebtext
+"Simplify language and reduce word count
+",Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+"Write a more formal and sophisticated version of the original text, while maintaining the same meaning and message.
+
+",Add a poetic twist to this passage.,Tone_change,openwebtext
+Simplify and clarify the language for a general audience,Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+"Take a historical building or landmark and transform it into a poetic and imaginative space, using vivid language and imagery to evoke the sense of history and culture.
+",Convert this as into a festive mariachi anthem,music,openwebtext
+"Transform the text into a more formal and academic tone, provide a more detailed explanation of the methodology and findings of the study, and use more technical terms and jargon related to data analysis and research methodology.",Change the language to include more technical jargon relevant to specialists.,Theme_change,forum_messages
+"""Transform a technical text about electrical current into a horror story with a supernatural twist""
+
+",Turn this into a thriller novel plot.,Genre_change,eli5-chatgpt
+"Write a more balanced and developmental review of the competition, focusing on the quality of the solutions and the learning experience.",Rewrite this as conference abstract to make it more concise.,Conciseness,eli5-chatgpt
+"""Write a more formal and professional text that provides practical tips and solutions for managing a data science workflow.""",Make this description shorter and to the point.,Conciseness,openwebtext
+"Transform a factual text about a specific location into a mystical and imaginative description that evokes a sense of mystery and cultural diversity.
+
+",Reconfigure this pessimistic outlook into an optimistic perspective.,Tone_change,forum_messages
+" Simplify and clarify the language, focus on key points, and use more formal language to improve the readability of the text.",Rewrite this with a comedy stand-up script.,Tone_change,openwebtext
+"Provide specific examples of the benefits of the proposed changes, such as reduced frustration, improved competition performance, increased trust, and better data quality.
+",Revamp into a formal argumentative essay.,creative,eli5-human
+" Provide a more balanced and developmental response
+
+",Reframe as a casual tech review.,Professional_settings,eli5-chatgpt
+"Simplify language and tone for a more neutral audience.
+
+",Redraft the document to align with formal NGO correspondence.,Formality_fix,forum_messages
+"Write a tutorial-style text that explains the difference between True North and Magnetic North, and how they work together to help navigate.
+
+",Shorten this as a dessert recipe.,Conciseness,openwebtext
+"Improve the comprehensiveness and ease of follow-ness of the competition guidelines by providing more detailed instructions and suggestions for participants.
+
+",Simplify the explanation,language,openwebtext
+"Clarify and rephrase the main question and concerns, and provide a more polite and professional tone.
+
+",Rewrite this as an architectural review.,Paraphrasing,openwebtext
+"Transform a personal experience or activity into a theatrical performance, highlighting the sensory details and emotions involved.""
+
+",Present this as as a whimsical children's song,music,eli5-chatgpt
+" Improve the readability and engagement of the text by incorporating techniques for managing unwanted or irrelevant aspects of the interview.
+
+",Describe the event from the viewpoint of a bystander who has a different emotional reaction.,Perspective_shift,forum_messages
+Transform the text to make it more suitable for a machine learning algorithm. ,Enhance this as a job description.,Enhancement_Details,openwebtext
+"Write a rewritten text in active voice, focusing on improving the clarity and coherence of the text while maintaining the same meaning.
+
+",Rewrite this as an email.,Enhancement_Details,eli5-chatgpt
+"Transform a political biography into a menu description for a royal banquet.
+
+",Use language suitable for children,language,openwebtext
+"Transform a scientific explanation into an alchemical metaphor""
+
+",Reformulate this into an epic gathering in a mythic realm.,Genre_change,eli5-chatgpt
+" Simplify the language and structure to make the text more concise and easier to understand, while still conveying the same information.
+
+",Adopt the satirical tone of Jonathan Swift to alter the text.,Style_mimic,eli5-chatgpt
+"Simplify the language and structure to make the text more concise and accessible to a wider audience.
+
+",Modify the formality level of this as message about changes in work schedule.,Formality_fix,eli5-chatgpt
+"Write a poem that retells the story of a historical figure in a fantastical and imaginative way, using language that evokes a sense of adventure and heroism.
+
+",Channel the straightforward reporting style of Walter Cronkite for the report.,Style_mimic,eli5-chatgpt
+simplifying the language and tone of the original text to make it more accessible and relatable to a general audience.,Rewrite this as as a sci-fi adventure plot,creative,eli5-chatgpt
+"Transform the text to describe the experience of beer tasting in a metaphorical or figurative sense, using language that evokes a sense of youthful freedom and exploration.
+
+",Summarize the core functionalities and benefits of:,Enhancement,forum_messages
+"Simplify and clarify the language for a general audience
+
+",Reform this into a plan for a moon colony.,Genre_change,eli5-chatgpt
+Rewrite to promote inclusivity and respectful communication,Reframe the report to emphasize commitments and progress toward goals:,Professional_settings,forum_messages
+Write a poem that uses imagery and figurative language to describe a scientific concept or phenomenon. ,Rewrite this as conference abstract to make it more concise.,Conciseness,openwebtext
+"Write a more formal and professional text that explains the benefits of using platforms for store item demand forecasting, using the provided information as a starting point. ",Rescript this into a tale of digital espionage.,Genre_change,openwebtext
+"Simplify language and tone for a more neutral audience.
+
+",Use language appropriate for a young child,language,openwebtext
+"Write a fun and playful rewording of the original text, using vibrant language and a lighthearted tone.
+
+",Modify this technical explanation to make it friendly for a general audience.,Tone_change,forum_messages
+"Take a character's decision-making process and present it in a more modern and relatable way, while still maintaining the original meaning and tone.
+
+","Rewrite the message in the concise, direct style of Ernest Hemingway.",Style_change,forum_messages
+"Rewrite the text to make it more formal and professional, while still conveying the same information and enthusiasm.""",Paraphrase this as medical journal article.,Paraphrasing,eli5-human
+"Take a common, mundane topic and turn it into a supernatural or paranormal scenario.""
+
+",Translate into language a child can understand,language,openwebtext
+"Simplify the language and structure of the text to make it more concise and easier to understand.
+
+",Highlight the necessity of precision and thoroughness in:,Enhancement,forum_messages
+"Simplify the language and structure of the text to make it more concise and easier to read.
+
+",Rewrite this as as a spy action plot,creative,openwebtext
+"""Rewrite the text to have a more optimistic tone and focus on the potential of the field, rather than the limitations of the algorithms.""
+
+",Modify this joyous exclamation to be more subdued and professional.,Tone_change,forum_messages
+"Write a more informal and conversational version of the text, using colloquial language and slang to make it more relatable and engaging for a general audience.
+
+",Rephrase this as design concept presentation.,Paraphrasing,eli5-chatgpt
+" Write a more formal argumentative essay on the nature of numbers, focusing on the debate between those who believe the form of a number is merely a convention and those who argue that the essence of a number is inherent and unchanging.
+
+",Rewrite this as as a treasure hunting expedition plot,creative,openwebtext
+" Write a more formal and professional version of the text, while still conveying the same information and tips.
+
+",Attain enlightenment through the meditative practice of quilting,creative,eli5-chatgpt
+"Emphasize the growth and expansion of Memorial University in recent years, highlighting its academic excellence and research prowess.
+
+",Operate a robot companion programmed to quilt with precision,creative,eli5-chatgpt
+"Write a more engaging and personalized account of using a hydraulic press for the first time""
+
+",Transform from passive to active voice.,Active/Passive,eli5-human
+"Improve the tone and clarity of the email by making it more professional and polite, while still conveying the same information and request.
+
+",Redraft the description to be more appealing to potential customers:,Professional_settings,forum_messages
+"Compose a concise dessert recipe based on the works of [author's name].
+
+",Change the informal blog post into an academic article.,Professional_settings,openwebtext
+"Simplify the language and structure for a younger audience.
+",Redraft the document to align with corporate board meeting standards.,Formality_fix,forum_messages
+"Emphasize Margot Kalinke's religious affiliation
+
+",Simplify without using scientific language,language,eli5-human
+"Write a policy brief for government officials on the potential of AI in achieving sustainable development goals, highlighting the current state of AI, its potential applications in sustainable development, and recommendations for government officials to harness AI for sustainable development.
+
+",Rephrase the statement for a formal business proposal.,Formality_fix,forum_messages
+"Write a creative and engaging rewording of the original text, using a more playful and lighthearted tone.
+",Rephrase this as software development documentation.,Paraphrasing,eli5-chatgpt
+"Improve the readability and clarity of the text by using more sophisticated vocabulary and sentence structures.
+
+",Expand this as an environmental report.,Enhancement_Details,eli5-chatgpt
+"Simplify the language and structure for a general audience
+
+",Alter the presentation to make it engaging and informative for stakeholders:,Professional_settings,forum_messages
+"Write an email to a recipient discussing the use of stainless steel in car manufacturing, highlighting the reasons why car manufacturers typically don't use it. ",Rescript this as a survival guide in a new world.,Genre_change,eli5-chatgpt
+"Simplify the language and structure of the text to make it more concise and easier to understand.
+
+",Add an adventure theme to this passage.,Tone_change,openwebtext
+"Take a serious topic, such as the use of seat belts on buses, and transform it into a fantastical and imaginative scenario, using magical and mythical elements to make the topic more engaging and memorable.
+
+",Reimagine this as a tale of planetary exploration.,Genre_change,openwebtext
+"Write a humorous and exaggerated satirical piece about the use of stainless steel countertops in restaurants, focusing on their practicality, durability, and the absurdity of their use.
+",Rewrite this text to make it shorter.,Conciseness,openwebtext
+"rewrite the text to have a higher level of formality, which is evident in the use of more complex vocabulary, longer sentences, and a more professional tone.
+
+",Modify the formality level of this as introduction to a webinar.,Formality_fix,openwebtext
+"Write a passage in the style of a news anchor, using technical terms to describe a mathematical concept to a general audience.
+
+",Enhance this as a legal document to add more detailed clauses and legal terms.,Enhancement_Details,eli5-chatgpt
+"Transform a scientific or technical topic into a science fiction story.
+
+",Rewrite this as as a cross-country chase plot,creative,openwebtext
+"Simplify the language and structure to make the text more clear and concise.
+
+",Rewrite this as as a movie synopsis to make it more exciting and concise.,Paraphrasing,openwebtext
+"Create a rewritten plan for a moon colony based on the given source text.
+",Change this as DIY home repair guide into an instruction for building siege weapons.,Theme_change,openwebtext
+"Improve the readability and clarity of the text by simplifying the language and organizing the ideas more logically.
+
+",Use the elaborate and descriptive style of Charles Dickens to reformulate the text.,Style_change,forum_messages
+"Simplify language and structure for a general audience
+
+",Adapt this into a narrative about a utopian society.,Genre_change,eli5-chatgpt
+"Transform a scientific text about a specific species of frog into a fictional story featuring a cybersecurity agent on a mission to infiltrate a criminal organization.
+
+",Rewrite this as as a fiery flamenco guitar solo,music,eli5-chatgpt
+" Simplify the language and make the text more concise.
+
+",Transform this into an FAQ section for a website.,Perspective_shift,eli5-chatgpt
+" Explain a technical concept to a non-expert audience in a friendly and relatable way, using analogies and simple language.
+
+",Recast this into a story about futuristic inventions.,Genre_change,openwebtext
+"Write the text in a more conversational and colloquial tone, using simpler language and shorter sentences to make it easier to understand for a general audience.
+
+","Rewrite the message in the concise, direct style of Ernest Hemingway.",Style_change,forum_messages
+" use more complex language, structure their arguments in a more logical and cohesive manner, and include technical terms and jargon related to the field of study.",Redraft the document to align with corporate board meeting standards.,Formality_fix,forum_messages
+"Write a technical white paper on a novel deep learning approach for medical image segmentation, using multiple imaging modalities to improve accuracy and robustness. ",Rewrite this as as a cowboy showdown plot,creative,openwebtext
+" Simplify the language and structure for a general audience.
+
+","Please rewrite the sentence using passive voice, focusing on the receiver of the action.",Active/Passive,forum_messages
+" Improve the text by emphasizing the importance of precision and thoroughness in the writer's work, while also encouraging them to be patient, persistent, and committed to their craft.
+",Alter the paragaraph from passive to active voice.,Active/Passive,eli5-human
+"<Transform the technical economic concept of ""conditional factor demand"" into a thrilling and mysterious scenario for a spy novel>
+",Use language appropriate for a young child,language,eli5-chatgpt
+" ""Simplify the language and tone for a professional audience while maintaining the core message""
+
+",Rewrite the summary to ensure all decisions and action items are clearly highlighted:,Professional_settings,forum_messages
+" Simplify complex sentences and vocabulary for a general audience.
+",Detail an explanation or instruction from the perspective of someone who is experiencing it for the first time.,Perspective_shift,forum_messages
+"""Transform a factual text about a historical figure into a fictional story or treasure hunt, using clues and hints to create an exciting adventure for the reader.""
+",Adopt the suspenseful pacing of Lee Child to alter the segment.,Style_mimic,eli5-chatgpt
+Write a comprehensive overview of BERT and its variants for a professional conference presentation.,Rewrite the text to fit the decorum of a formal award ceremony.,Formality_fix,forum_messages
+"Transform a factual text about urban planning into a creative and imaginative text about a spiritual practice.
+",Describe in a way that's easy for children to comprehend,language,openwebtext
+"Improve the perception of great work in the context of a contest or competition by highlighting the influence of contributions on the perception of great work.
+
+",Rewrite this as as a fiery flamenco guitar solo,music,openwebtext
+" Focus on quilting and compare it to heat and particles.
+",Adjust the text from passive to active voice.,Active/Passive,eli5-chatgpt
+"Convert the text from passive voice to active voice while maintaining the same meaning and clarity.
+
+",Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+,Make this sound like a travel brochure.,Tone_change,eli5-chatgpt

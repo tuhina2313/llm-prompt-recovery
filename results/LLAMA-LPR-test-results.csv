@@ -1,0 +1,1053 @@
+predicted,target,RewriteLabel,DatasetLabel
+Revise the message to adhere to the tone of an official government document.,Revise the message to adhere to the tone of an official government document.,Formality_fix,forum_messages
+###,Illustrate the advantages of engaging with:,Enhancement,forum_messages
+###,Revise the following to enhance its clarity and professionalism:,Professional_settings,forum_messages
+Change the text from a formal documentary script to a casual discussion among non-experts.,Describe without using scientific terms,language,eli5-human
+Rewrite Prompt: Turn this as car review into a description of a chariot race.,Turn this into a description of a chariot race.,Theme_change,openwebtext
+Reimagine this as a dialogue between aliens.,Reenvision this as a dialogue between aliens.,Genre_change,openwebtext
+Reconfigure this into a cyberpunk setting.,Reconfigure this into a cyberpunk setting.,Genre_change,eli5-chatgpt
+Rewrite Prompt: Make this description shorter and to the point.,Describe using everyday language,language,openwebtext
+Convert the narrative to match the formalities of a corporate annual report.,Revise the message to match the formalities of an international symposium.,Formality_fix,forum_messages
+Reformulate this into an epic gathering in a digital realm.,Transform this into a conflict in a digital world.,Genre_change,eli5-chatgpt
+Convert this into a description of a personal fitness journey on a blog.,Illustrate the advantages of engaging with:,Enhancement,forum_messages
+Translate this as into a soulful jazz ballad,Make this as text a melancholic indie folk melody,music,openwebtext
+Rewrite this as as a cross-country road trip plot,Rewrite this as as a cross-country road trip plot,creative,openwebtext
+Rewrite Prompt: Emulate the whimsical tone of Dr. Seuss for the text.,Rewrite this as as a poignant choral arrangement,music,openwebtext
+Convert the message to academic standards.,Remodel the message to ensure it adheres to academic standards.,Theme_change,forum_messages
+Adopt the conversational tone of a pet as the text is rewritten.,Adopt this as as a driving punk rock anthem,music,eli5-chatgpt
+Rewrite this as as a child's storybook illustration.,Break it down for a child,language,eli5-human
+Rewrite the text into personalized recommendations.,Transform a college application essay into a recommendation letter by a teacher.,Perspective_shift,eli5-chatgpt
+Rewrite this as as a survival horror plot,Rewrite this as as a survival horror plot,creative,eli5-chatgpt
+Rewrite Prompt: Streamline this as a tutorial.,Rewrite this from passive to active voice.,Active/Passive,eli5-chatgpt
+###,Identify techniques for managing unwanted or irrelevant aspects of:,Enhancement,forum_messages
+Modify the feedback into formal educational critique.,Restructure the text into a formal report.,language,eli5-human
+Adopt the suspenseful pacing of Lee Child to alter the segment.,Adopt the suspenseful pacing of Lee Child to alter the segment.,Style_mimic,eli5-chatgpt
+Rewrite the text into prepared statements for a meeting.,Translate the text to reflect the format of educational resource sharing.,Paraphrasing,forum_messages
+Utilize the gripping narrative style of J.K. Rowling to alter the text.,Convert this into an old western showdown narration.,Tone_change,openwebtext
+###,"Please rewrite the sentence using passive voice, focusing on the receiver of the action.",Active/Passive,forum_messages
+Transform the explanation into simpler language for a child,Elaborate in simple words,language,eli5-human
+Rewrite the statement from the perspective of someone who disagrees with the original opinion.,Share the opinion from the viewpoint of someone who holds an opposing belief or preference.,Perspective_shift,forum_messages
+Rewrite Prompt: Change the text from passive to active voice.,Rewrite this from passive to active voice.,Active/Passive,eli5-human
+Summarize this as therapy session to focus on personal growth and transformation.,Rewrite this as a therapy session summary.,Enhancement_Details,eli5-chatgpt
+Rewrite this as as a cowboy showdown plot,Rewrite this as as a cowboy showdown plot,creative,Poetry
+Rewrite the text to make it understandable for a person with limited knowledge of the subject.,Transform from passive to active voice.,Active/Passive,eli5-chatgpt
+###,Remodel the message to ensure it adheres to academic standards.,Theme_change,forum_messages
+Convert this into a children’s storybook.,Present it in a way that's accessible to a young audience,language,eli5-human
+Reformulate into a brief summary.,Enhance this as recipe to include more detailed step-by-step instructions.,Enhancement_Details,eli5-chatgpt
+Adopt the poetic and rhythmic style of Maya Angelou to alter the text.,Mimic the poetic and rhythmic style of Maya Angelou in the following message.,Style_change,forum_messages
+[/] Rewrite a complaint or negative feedback from the perspective of the person or entity the complaint is directed at.,Rewrite a complaint or negative feedback from the perspective of the person or entity the complaint is directed at.,Perspective_shift,forum_messages
+Condense this as lecture notes.,Condense this as lecture notes.,Conciseness,eli5-human
+Rewrite this text to make it shorter.,Change the text wording from passive to active voice.,Active/Passive,eli5-chatgpt
+Rewrite this from passive to active voice.,Modify from passive to active voice.,Active/Passive,eli5-human
+Rewrite Prompt: Use the minimalist style of Raymond Carver to revise the short story.,Modify the formality level of this as post about a cultural festival.,Formality_fix,eli5-chatgpt
+Rewrite Prompts,Rephrase the text to simulate the style of coding practice descriptions.,Paraphrasing,forum_messages
+Explain without using advanced vocabulary,Present it in a way that's easy for kids to understand,language,eli5-human
+Rewrite Prompt: Modify the formality level of this as query about a university course.,Modify the formality level of this as description of a new fitness program.,Formality_fix,eli5-chatgpt
+Rewrite this as as a courtroom thriller plot,Rewrite this as as a courtroom drama plot,creative,openwebtext
+Convert a structured conference talk.,Convert a structured conference talk.,Professional_settings,eli5-human
+Make it easy for a child to understand,Break it down for a child to understand,language,eli5-human
+Streamline this as a tutorial.,Make this description shorter and to the point.,Conciseness,openwebtext
+Make this sound like a time traveler's notes.,Make this sound like a time traveler's notes.,Tone_change,eli5-chatgpt
+Rewrite Prompt: Explain without technical vocabulary,Expand this as a book review.,Enhancement_Details,openwebtext
+Recompose into a formal professional biography.,Revise into a formal professional biography.,Professional_settings,eli5-human
+###,Examine the effects of technological advancements on:,Enhancement,forum_messages
+###,Adapt this defensive response to be more accepting of feedback.,Tone_change,forum_messages
+Rewrite the text to conform to high-level business communication.,Modify the review to be more balanced and developmental:,Professional_settings,forum_messages
+Convert this as fashion magazine article into a Victorian era letter.,Convert this as fashion magazine article into a Victorian era letter.,Theme_change,openwebtext
+Modify the text to duplicate the style of giving clear feedback.,Explain in an educational tutorial for students.,Genre_change,forum_messages
+###,Reformulate the proposal to highlight the benefits and expected outcomes:,Professional_settings,forum_messages
+###,Change this factual statement into a question to engage the audience.,Tone_change,forum_messages
+Rewrite this as conference abstract to make it more concise.,Explain without using technical terms,language,openwebtext
+###,Evaluate the benefits of using platforms for:,Enhancement,forum_messages
+Convert this as live concert review into a review of a royal court performance.,Convert this as live concert review into a review of a royal court performance.,Theme_change,eli5-chatgpt
+Use words a child would know to explain,Clarify using words a child would know,language,eli5-human
+###,Broadcast as an urgent SMS alert to users.,Genre_change,forum_messages
+###,Convert this into a series of infographic posts.,Perspective_shift,eli5-chatgpt
+Convert the text into a laid-back comic strip dialogue.,Transform the article using the investigative style of Hunter S. Thompson.,Style_mimic,eli5-chatgpt
+Modify from passive to active voice.,Rewrite this from passive to active voice.,Active/Passive,eli5-human
+Rewrite this as as a magical adventure plot,Transform this into a character study in a speculative fiction.,Genre_change,eli5-chatgpt
+###,Modify the text to duplicate the style of giving clear feedback.,Paraphrasing,forum_messages
+###,Discuss essential strategies for safeguarding:,Enhancement,forum_messages
+Discuss the impact of a certain topic on someone's well-being.,Discuss the impact or importance of a topic from the viewpoint of someone negatively affected by it.,Perspective_shift,forum_messages
+Make this text more concise.,Make this text more concise.,Conciseness,eli5-human
+###,Condense this as lecture notes.,Conciseness,openwebtext
+Reformulate this into a narrative about futuristic inventions.,Rescript this into a tale of digital espionage.,Genre_change,Poetry
+"Rewrite the sentence using active voice, clearly identifying the initiator of the action.","Please rewrite the sentence using active voice, clearly identifying the initiator of the action.",Active/Passive,forum_messages
+Change the text from passive to active voice.,Adjust the text from passive to active voice.,Active/Passive,eli5-human
+Rewrite the text to conform to high-level business communication.,Reformulate the proposal to highlight the benefits and expected outcomes:,Professional_settings,forum_messages
+Rewrite Prompt: Use basic language to explain,Clarify using basic language,language,eli5-human
+Rewrite the text to reflect the format of a conspiracy theory.,Describe the event from the viewpoint of a bystander who has a different emotional reaction.,Perspective_shift,forum_messages
+Simplify the explanation,Elaborate in terms understandable to a child,language,openwebtext
+###,Alter the presentation to make it engaging and informative for stakeholders:,Professional_settings,forum_messages
+Make this as podcast sound like an explorer's log.,Change this as modern travelogue into an explorer's log from the 1400s.,Theme_change,eli5-chatgpt
+Revamp the document into a formal board meeting discussion.,Redraft the document to align with corporate board meeting standards.,Formality_fix,forum_messages
+Rewrite the text to tone down any aggressive language.,Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+Revamp the text into a formal product analysis.,Enhance this as a technical guide.,Enhancement_Details,openwebtext
+Transform this as child's lullaby into a whimsical fairy tale.,Imitate the humorous style of P.G. Wodehouse in the text.,Style_mimic,openwebtext
+Transform this into a character study in a speculative fiction.,Make this sound like a travel brochure.,Tone_change,Poetry
+Rewrite this as a gaming review.,Expand this as game review to include more detailed descriptions of gameplay mechanics.,Enhancement_Details,openwebtext
+Reformulate the text to remove any colloquialisms and make it more formal.,Recompose the description into a formal marketing material.,Professional_settings,eli5-chatgpt
+Simplify the explanation,Put it in layman's terms,language,openwebtext
+Redraft the message to align with a more personalized and empathetic tone.,Craft as a personalized thank-you card.,Genre_change,forum_messages
+Revise the message for an official press release requiring elevated language.,Revise the message for an official press release requiring elevated language.,Formality_fix,forum_messages
+Rewrite this as as a jazz ballad,Describe this as as a sultry bossa nova jazz standard,music,openwebtext
+Change the text into a formal professional biography.,Revise into a formal professional biography.,Professional_settings,eli5-human
+Transform the text into a formal personal bio for a professional site.,Shorten this as a dessert recipe.,Conciseness,openwebtext
+Rewrite this as a fitness guide.,Navigate the afterlife with the quilt as your guide,creative,eli5-chatgpt
+Convert this into an online learning course description.,Rewrite the text to copy the format of an online learning course description.,Paraphrasing,forum_messages
+- Turn this into a tale of epic opera proportions.,Rewrite this as a opera synopsis.,Conciseness,eli5-chatgpt
+###,Adopt the writing style of Virginia Woolf to alter the text below.,Style_change,forum_messages
+Rewrite the message to make it more appealing to a global audience.,Restructure the message to make it more appealing to a global audience.,Theme_change,forum_messages
+Adjust the message to highlight key points more prominently.,Adjust the message to highlight key points more prominently.,Theme_change,forum_messages
+Convert the text to match the manner of requesting detailed explanations.,Rephrase the statement to meet the norms of a professional panel discussion.,Formality_fix,forum_messages
+Modify the text to focus on problem-solving aspects.,Modify the text to focus on problem-solving aspects.,Theme_change,forum_messages
+Rewrite this as as a space exploration adventure plot,Rewrite this as as a space exploration thriller plot,creative,eli5-chatgpt
+Rewrite Prompt: Turn this as a dessert recipe.,Shorten this as a dessert recipe.,Conciseness,eli5-human
+Turn this into a character study in a speculative fiction.,Adopt the futuristic narrative style of Philip K. Dick for the excerpt.,Style_mimic,eli5-chatgpt
+Modify the text to casual travel notes.,Revise the text to reflect a more informal and conversational style.,Theme_change,forum_messages
+Rewrite this as as a ghost investigation plot,Rewrite this as as a ghost hunting adventure plot,creative,openwebtext
+Rewrite this as legal contract as a peace treaty from the Renaissance.,Transform this as graduation speech into a knight's oath ceremony.,Theme_change,eli5-chatgpt
+Rewrite the message using the elegant and concise language of James Joyce.,Adopt the writing style of Virginia Woolf to alter the text below.,Style_change,forum_messages
+###,Share effective practices for making valuable contributions to:,Enhancement,forum_messages
+###,Modify the feedback to be more constructive and actionable:,Professional_settings,forum_messages
+Rephrase this as gardening guide.,Rewrite this as a gardening guide.,Paraphrasing,openwebtext
+Modify the formality level of this as comment on a news article.,Paraphrase this as as marketing pitch to sound more casual.,Paraphrasing,openwebtext
+Rewrite Prompt: Explain without using advanced vocabulary,Explain without using advanced vocabulary,language,openwebtext
+Explain without using technical terms,Use simple language to explain,language,eli5-human
+Rewrite this as as a detailed movie plot,Expand this as a movie synopsis to provide a detailed plot description.,Enhancement_Details,eli5-chatgpt
+Reformulate into a formal presentation.,Describe without using difficult words,language,openwebtext
+Rewrite this as as a space exploration adventure plot,Rewrite this as as a space exploration plot,creative,openwebtext
+Reformulate the text to remove any colloquialisms and make it more formal.,Reformulate the text to remove any colloquialisms and make it more formal.,Theme_change,forum_messages
+Rewrite this as as a magical adventure plot,Rewrite this as as a fairy tale retelling plot,creative,eli5-chatgpt
+Rewrite Prompts,Mimic the suspenseful and engaging style of Agatha Christie in the text below.,Style_change,forum_messages
+Rewrite this as if it were a fairy tale.,Rewrite this as as a modern fairy tale romance plot,creative,openwebtext
+Rewrite this from passive to active voice.,Modify from passive to active voice.,creative,eli5-human
+###,Shorten this as a dessert recipe.,creative,eli5-human
+Rephrase the text to simulate the style of coding practice descriptions.,Rephrase the text to simulate the style of coding practice descriptions.,Paraphrasing,forum_messages
+###,Outline for an internal sales strategy meeting.,Genre_change,forum_messages
+Rewrite this as a motivational coach’s pep talk.,Rewrite a fitness blog post as a motivational speech by a personal trainer.,Perspective_shift,openwebtext
+Transform the manual with the clear guidance of Steve Kerr.,Explain without using technical jargon,language,eli5-human
+Rewrite Prompt: Streamline this as a tutorial.,Recompose into formal executive summaries.,Professional_settings,openwebtext
+Modify the formality level of this as message about changes in work schedule.,Modify the formality level of this as message about changes in work schedule.,Formality_fix,eli5-chatgpt
+Make this text more concise.,Enhance this as a job description.,Enhancement_Details,openwebtext
+Convert this as into a flamenco guitar solo,Rewrite this as as a fiery flamenco guitar solo,music,openwebtext
+###,Adjust the abstract to meet the submission guidelines and include critical findings:,Professional_settings,forum_messages
+Rewrite this as as a supernatural thriller plot,Rewrite this as as a supernatural thriller plot,creative,eli5-chatgpt
+###,Modify the review to be more balanced and developmental:,Professional_settings,forum_messages
+###,Describe a technical or complex subject from the viewpoint of someone unfamiliar with the topic.,Perspective_shift,forum_messages
+Rewrite this as as a magical realism plot,Convert this into a fantasy novel excerpt.,Tone_change,openwebtext
+###,Reformulate this to be more concise and focused on key results:,Professional_settings,forum_messages
+Reformulate the proposal to highlight the benefits and expected outcomes:,Reformulate the proposal to highlight the benefits and expected outcomes:,Professional_settings,forum_messages
+Modify the review to be more balanced and developmental:,Modify the review to be more balanced and developmental:,Professional_settings,forum_messages
+Recast the text to tone down any aggressive language.,Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+Streamline this as a tutorial.,Streamline this as a tutorial.,creative,eli5-human
+Redesign the guidelines to ensure they are comprehensive and easy to follow:,Redesign the guidelines to ensure they are comprehensive and easy to follow:,Professional_settings,forum_messages
+Redraft the document to align with formal NGO correspondence.,Restructure the message to make it more appealing to a global audience.,Theme_change,forum_messages
+Condense this as a theater program synopsis.,Rewrite this as a theater program synopsis.,Paraphrasing,eli5-human
+###,Identify techniques for managing unwanted or irrelevant aspects of:,Enhancement,forum_messages
+###,Modify the text to duplicate the style of giving clear feedback.,Paraphrasing,forum_messages
+Change the text wording from passive to active voice.,Adjust the text from passive to active voice.,Active/Passive,eli5-human
+Modify this as sushi recipe to include more detailed step-by-step instructions.,Alter this as sushi recipe into a banquet preparation for a Chinese emperor.,Theme_change,openwebtext
+Alchemize this as cooking show script.,Redo this as cooking show script as an alchemist's experiment notes.,Theme_change,eli5-chatgpt
+Condense this as lecture notes.,Make it clear for a young child,language,openwebtext
+Condense this as a tutorial.,Condense this as a sports game recap.,Paraphrasing,openwebtext
+Adapt this as song into a Viking war chant.,Reframe this as song lyric into a Viking war chant.,Theme_change,openwebtext
+Rewrite Prompts,Express enthusiasm or approval from the viewpoint of someone who is indifferent or neutral about the subject.,Perspective_shift,forum_messages
+Rewrite this as as a musical romance plot,Rewrite this as as a bittersweet country ballad,music,eli5-chatgpt
+Transform the text into formal procedural guidelines.,Revamp the text into a formal product analysis.,Professional_settings,openwebtext
+Redefine the content to make it suitable for a technical discussion on a forum.,Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+Convert this as a tender lullaby into a spirited polka dance tune,Add a poetic twist to this passage.,Tone_change,openwebtext
+###,Evaluate the benefits of using platforms for:,Enhancement,forum_messages
+Recast the text to tone down any aggressive language.,Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+Rewrite this as as a festive mariachi anthem,Convert this as into a festive mariachi anthem,music,openwebtext
+###,Reimagine this as an interactive choose-your-own-adventure book.,Genre_change,Poetry
+Redraft the document to align with formal NGO correspondence.,Change the language to include more technical jargon relevant to specialists.,Theme_change,forum_messages
+Rewrite this as as a supernatural thriller plot,Turn this into a thriller novel plot.,Genre_change,eli5-chatgpt
+Rewrite Prompts,Rewrite this as conference abstract to make it more concise.,Conciseness,eli5-chatgpt
+Rewrite this as as a technical description.,Make this description shorter and to the point.,Conciseness,openwebtext
+Reconfigure this pessimistic outlook into an optimistic perspective.,Reconfigure this pessimistic outlook into an optimistic perspective.,Tone_change,forum_messages
+Rewrite the commentary using the energetic style of Howard Cosell.,Rewrite this with a comedy stand-up script.,Tone_change,openwebtext
+Revamp into a formal argumentative essay.,Revamp into a formal argumentative essay.,creative,eli5-human
+###,Outline the steps involved in building and sustaining:,Enhancement,forum_messages
+###,Rewrite this as a news report.,Perspective_shift,openwebtext
+Rewrite the text as an enthusiastic Yelp review.,Reframe as a casual tech review.,Professional_settings,eli5-chatgpt
+Redraft the document to align with formal NGO correspondence.,Redraft the document to align with formal NGO correspondence.,Formality_fix,forum_messages
+The task is to rewrite the given text as a dessert recipe.,Shorten this as a dessert recipe.,Conciseness,openwebtext
+Explain without using technical terms,Simplify the explanation,language,openwebtext
+Revamp the text into a formal product analysis.,Rewrite this as an architectural review.,Paraphrasing,openwebtext
+###,Detail for a policy briefing to government officials.,Genre_change,forum_messages
+Rewrite this as as a catchy ska tune,Present this as as a whimsical children's song,music,eli5-chatgpt
+Rewrite the text from the perspective of someone who disagrees with the original opinion.,Describe the event from the viewpoint of a bystander who has a different emotional reaction.,Perspective_shift,forum_messages
+The provided text is rewritten to make it more concise.,Enhance this as a job description.,Enhancement_Details,openwebtext
+Redraft the document to align with formal NGO correspondence.,Rewrite this as an email.,Enhancement_Details,eli5-chatgpt
+Rewrite Prompt: Explain without using complex language,Use language suitable for children,language,openwebtext
+Rewrite this as as a mythological legend passed down through generations,Reformulate this into an epic gathering in a mythic realm.,Genre_change,eli5-chatgpt
+Rewrite the message using the satirical tone of Jonathan Swift.,Adopt the satirical tone of Jonathan Swift to alter the text.,Style_mimic,eli5-chatgpt
+Modify the formality level of this as review of an academic book.,Modify the formality level of this as message about changes in work schedule.,Formality_fix,eli5-chatgpt
+Rewrite the text using the clear and concise reporting style of Walter Cronkite.,Channel the straightforward reporting style of Walter Cronkite for the report.,Style_mimic,eli5-chatgpt
+Rewrite this as as a space exploration adventure plot,Rewrite this as as a sci-fi adventure plot,creative,eli5-chatgpt
+Rewrite the text to enhance its detail on the functionalities and benefits of a specific technology.,Summarize the core functionalities and benefits of:,Enhancement,forum_messages
+Reformulate this into a plan for a moon colony.,Reform this into a plan for a moon colony.,Genre_change,eli5-chatgpt
+Redraft the document to align with formal NGO correspondence.,Reframe the report to emphasize commitments and progress toward goals:,Professional_settings,forum_messages
+Convert this into a tutorial.,Rewrite this as conference abstract to make it more concise.,Conciseness,openwebtext
+Convert this into a virtual reality game scenario.,Rescript this into a tale of digital espionage.,Genre_change,openwebtext
+Rewrite this as as a technical description.,Use language appropriate for a young child,language,openwebtext
+Explain without using technical terms,Modify this technical explanation to make it friendly for a general audience.,Tone_change,forum_messages
+"Rewrite the message in the concise, direct style of Ernest Hemingway.","Rewrite the message in the concise, direct style of Ernest Hemingway.",Style_change,forum_messages
+Paraphrase this as medical journal article.,Paraphrase this as medical journal article.,Paraphrasing,eli5-human
+###,Develop into a technical white paper.,Genre_change,forum_messages
+Make it understandable for a young child,Translate into language a child can understand,language,openwebtext
+Convert the text into a formal personal bio for a professional site.,Highlight the necessity of precision and thoroughness in:,Enhancement,forum_messages
+[/reformulate this as a spy espionage plot],Rewrite this as as a spy action plot,creative,openwebtext
+Change this joyous exclamation into a subdued and professional reaction.,Modify this joyous exclamation to be more subdued and professional.,Tone_change,forum_messages
+Rewrite Prompt: Revamp the text into a formal product analysis.,Rephrase this as design concept presentation.,Paraphrasing,eli5-chatgpt
+Rewrite this as as a treasure hunting adventure plot,Rewrite this as as a treasure hunting expedition plot,creative,openwebtext
+###,Reformulate the content to suit a professional conference presentation.,Formality_fix,forum_messages
+Transform this as college syllabus into a curriculum for a medieval scholar.,Attain enlightenment through the meditative practice of quilting,creative,eli5-chatgpt
+###,Discuss the influence of contributions on the perception of:,Enhancement,forum_messages
+Shorten this as a dessert recipe.,Operate a robot companion programmed to quilt with precision,creative,eli5-chatgpt
+Rewrite Prompt: Change the text from passive to active voice.,Transform from passive to active voice.,Active/Passive,eli5-human
+###,Rewrite a complaint or negative feedback from the perspective of the person or entity the complaint is directed at.,Perspective_shift,forum_messages
+Rewrite the description to be more appealing to potential customers:,Redraft the description to be more appealing to potential customers:,Professional_settings,forum_messages
+Rewrite this as a student’s semester planning diary.,Change the informal blog post into an academic article.,Professional_settings,openwebtext
+Revamp the message to align with formal NGO correspondence.,Redraft the document to align with corporate board meeting standards.,Formality_fix,forum_messages
+Simplify the following recipe without losing any essential steps.,Simplify without using scientific language,language,eli5-human
+Restructure the proposal to make it more appealing to potential investors:,Rephrase the statement for a formal business proposal.,Formality_fix,forum_messages
+- Elaborate without using advanced computational systems,Rephrase this as software development documentation.,Paraphrasing,eli5-chatgpt
+Annotate as an environmental report.,Expand this as an environmental report.,Enhancement_Details,eli5-chatgpt
+Revamp the presentation to ensure all content is relevant and engaging for a global audience.,Alter the presentation to make it engaging and informative for stakeholders:,Professional_settings,forum_messages
+Survive in a new world as a survival guide,Rescript this as a survival guide in a new world.,Genre_change,eli5-chatgpt
+Reimagine this as a board game instruction manual as a medieval treasure hunt map.,Add an adventure theme to this passage.,Tone_change,openwebtext
+Reimagine this as a voyage to an alien planet.,Reimagine this as a tale of planetary exploration.,Genre_change,openwebtext
+Simplify the concept,Rewrite this text to make it shorter.,Conciseness,openwebtext
+Rewrite Prompt: Rephrase the casual social media post into a professional announcement.,Modify the formality level of this as introduction to a webinar.,Formality_fix,openwebtext
+Condense this as a user manual.,Enhance this as a legal document to add more detailed clauses and legal terms.,Enhancement_Details,eli5-chatgpt
+Rewrite this as as a cross-country chase plot,Rewrite this as as a cross-country chase plot,creative,openwebtext
+Rewrite the text to copy the format of a formal marketing material.,Rewrite this as as a movie synopsis to make it more exciting and concise.,Paraphrasing,openwebtext
+Change this as DIY home repair guide into an instruction for building siege weapons.,Change this as DIY home repair guide into an instruction for building siege weapons.,Theme_change,openwebtext
+###,Explain the reasoning or motivation behind an action from the perspective of someone who questions its necessity.,Perspective_shift,forum_messages
+Change the language to include more technical jargon relevant to specialists.,Use the elaborate and descriptive style of Charles Dickens to reformulate the text.,Style_change,forum_messages
+Adapt this into a narrative about a utopian society.,Adapt this into a narrative about a utopian society.,Genre_change,eli5-chatgpt
+Adopt this as as a high-energy flamenco guitar solo,Rewrite this as as a fiery flamenco guitar solo,music,eli5-chatgpt
+Transform this into an FAQ section for a website.,Transform this into an FAQ section for a website.,Perspective_shift,eli5-chatgpt
+Rewrite Prompt: Rework this into a tale set in a futuristic city.,Recast this into a story about futuristic inventions.,Genre_change,openwebtext
+"Rewrite the message in the concise, direct style of Ernest Hemingway.","Rewrite the message in the concise, direct style of Ernest Hemingway.",Style_change,forum_messages
+Redefine the content to make it more suitable for a corporate board meeting.,Redraft the document to align with corporate board meeting standards.,Formality_fix,forum_messages
+Rewrite this as as a western showdown plot,Rewrite this as as a cowboy showdown plot,creative,openwebtext
+"Rewrite the sentence using passive voice, focusing on the receiver of the action.","Please rewrite the sentence using passive voice, focusing on the receiver of the action.",Active/Passive,forum_messages
+###,Turn the text into a structured educational course material.,Professional_settings,eli5-human
+Rewrite Prompts,Examine the effects of technological advancements on:,Enhancement,forum_messages
+Rewrite this from passive to active voice.,Alter the paragaraph from passive to active voice.,Active/Passive,eli5-human
+Translate into language appropriate for young children,Use language appropriate for a young child,language,eli5-chatgpt
+Summarize to highlight the decisions and action items:,Rewrite the summary to ensure all decisions and action items are clearly highlighted:,Professional_settings,forum_messages
+Detail an explanation or instruction from the perspective of someone who is experiencing it for the first time.,Detail an explanation or instruction from the perspective of someone who is experiencing it for the first time.,Perspective_shift,forum_messages
+###,Share the opinion from the viewpoint of someone who holds an opposing belief or preference.,Perspective_shift,forum_messages
+Rewrite the text with the suspenseful style of Lee Child.,Adopt the suspenseful pacing of Lee Child to alter the segment.,Style_mimic,eli5-chatgpt
+Rewrite the text to fit the decorum of a formal award ceremony.,Rewrite the text to fit the decorum of a formal award ceremony.,Formality_fix,forum_messages
+Make it understandable for a young child,Describe in a way that's easy for children to comprehend,language,openwebtext
+Translate this as into a fiery flamenco guitar solo,Rewrite this as as a fiery flamenco guitar solo,music,openwebtext
+###,Revise these rigorous guidelines to sound more like a suggestion.,Tone_change,forum_messages
+Analyze the effects of the legislation on:,Rewrite this as news article to enhance its detail on the economic impact discussed.,Enhancement_Details,openwebtext
+Rewrite this from passive to active voice.,Adjust the text from passive to active voice.,Active/Passive,eli5-chatgpt
+Rewrite the text to conform to high-level business communication.,Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+Rewrite this as a travel guide.,Make this sound like a travel brochure.,Tone_change,eli5-chatgpt
+Convert this into a fantasy novel excerpt.,Rewrite this as a time travel story,creative,openwebtext
+Use language suitable for children,Use language suitable for children,language,eli5-human
+Add a poetic twist to this passage.,Add a poetic twist to this passage.,Tone_change,eli5-chatgpt
+Rewrite Prompt: Adapt this as children's story into a modern fairy tale.,Rewrite this as as a modern fairy tale romance plot,creative,openwebtext
+Rewrite Prompt: Rephrase the content to make it suitable for a polished scientific publication.,Clarify using words a child would know,language,eli5-human
+Discuss the advantages of a certain lifestyle or practice from the perspective of someone who prefers an opposite lifestyle.,Discuss the advantages of a certain lifestyle or practice from the perspective of someone who prefers an opposite lifestyle.,Perspective_shift,forum_messages
+Adopt this as as a dramatic Broadway show tune,Use the lyrical style of Bob Dylan to rewrite the text.,Style_mimic,openwebtext
+###,Offer a step-by-step guide on how to effectively utilize:,Enhancement,forum_messages
+###,Make it clear for a young child,language,eli5-chatgpt
+Rewrite Prompt: Simplify the explanation,Make this text more concise.,Conciseness,openwebtext
+136. Turn this into a guide for a space colonization mission.,Shorten this as a dessert recipe.,Conciseness,eli5-human
+Change the text from a informal movie review to a formal cinematic critique.,Convert into a formal cinematic critique.,Professional_settings,eli5-human
+Rewrite Prompt: Rephrase the casual social media post into a professional announcement.,Adopt the suspenseful pacing of Lee Child to alter the segment.,Style_mimic,openwebtext
+Rewrite this as political speech.,Rewrite this as as a survival horror plot,creative,Poetry
+Reformulate this into a narrative about futuristic inventions.,Adapt this into a sci-fi short story about advanced civilizations.,Genre_change,eli5-chatgpt
+Rewrite Prompts,Rephrase the statement using the introspective and philosophical style of Friedrich Nietzsche.,Style_change,forum_messages
+Modify the formality level of this as description of a new fitness program.,Modify the formality level of this as advertisement for a new tech gadget.,Formality_fix,openwebtext
+Rewrite Prompts,Adopt the sharp and incisive style of Jane Austen to rephrase the text.,Style_change,forum_messages
+Make it clear for a child to grasp easily,Make it easy for a child to understand,language,eli5-chatgpt
+Translate into language suitable for children,Describe in language suitable for children,language,eli5-chatgpt
+Make this explanation more concise and clear.,Revise this overly detailed explanation to be more concise and clear.,Tone_change,forum_messages
+###,Redraft the document to align with formal NGO correspondence.,Formality_fix,forum_messages
+Rewrite the text with the vivid descriptions of Paul Theroux.,Reimagine this as smartphone review as if it were a discovery in the 1800s.,Theme_change,eli5-chatgpt
+Reformulate the content to reflect the standards of an expert panel discussion.,Rephrase the statement to meet the norms of a professional panel discussion.,Formality_fix,forum_messages
+Convert this into a thrilling spy novel plot.,Make this sound like a detective mystery.,Tone_change,openwebtext
+Rewrite this as as a musical romance plot,Modify the formality level of this as review of a popular novel.,Formality_fix,openwebtext
+Rephrase this as travel itinerary.,Discuss the advantages of a certain lifestyle or practice from the perspective of someone who prefers an opposite lifestyle.,Perspective_shift,forum_messages
+Rewrite this as a motivational sports coach quote.,Describe it like you're talking to a youngster,language,openwebtext
+Summarize this as an article to focus on the main points.,Summarize this as an article to focus on the main points.,Conciseness,eli5-human
+Rewrite Prompt: Use the lyrical style of Bob Dylan to rewrite the given text.,Rewrite this as as a nostalgic 80s power ballad,music,eli5-chatgpt
+Reformulate this into a witness’s statement in a legal trial.,Rewrite a witness’s statement into a detective’s summary report.,Perspective_shift,openwebtext
+###,Rephrase for a casual conversation among non-experts.,Genre_change,forum_messages
+"Target Text: When we rest, our muscles relax, allowing our bodies to drift into a state of blissful unawareness. In this dreamlike state, we may unknowingly assume uncomfortable positions, lost in the embrace of slumber's sweet oblivion.",Rewrite the letter using the passionate style of Frida Kahlo.,Style_mimic,eli5-chatgpt
+Rewrite the message to incorporate a more narrative storytelling approach.,Revamp the message to align with a more narrative storytelling approach.,Theme_change,forum_messages
+Reimagine this as webinar as a philosopher's lecture in ancient Greece.,Reimagine this as webinar as a philosopher's lecture in ancient Greece.,Theme_change,openwebtext
+Streamline this as a tutorial.,Condense this as workshop feedback.,Paraphrasing,openwebtext
+###,Discuss essential strategies for safeguarding:,Enhancement,forum_messages
+Rewrite this as as a thrilling escape plan.,Turn this into a thrilling escape plan.,Tone_change,eli5-chatgpt
+Modify the formality level of this as query about a university course.,Modify the formality level of this as description of a travel itinerary.,Formality_fix,eli5-chatgpt
+Rewrite Prompt: Translate the text to informal discussion on climate change.,Modify the formality level of this as comment on a sports match report.,Formality_fix,eli5-chatgpt
+The given text can be rewritten in the formal tone of an academic thesis.,Transform the manual using the precise technical style of Isaac Asimov.,Style_mimic,openwebtext
+Rewrite this as as a steampunk adventure plot,Turn this into a story about mechanics in a steampunk world.,Genre_change,eli5-chatgpt
+[/]{: .array-item-center .array-item-last},Transform this into a press release.,Perspective_shift,openwebtext
+Rewrite this as as a cooking competition reality show plot,Rewrite this as as a cooking competition plot,creative,openwebtext
+"Rewrite this from active to passive voice, focusing on the receiver of the action.","Please rewrite the sentence using passive voice, focusing on the receiver of the action.",Active/Passive,forum_messages
+Change this as YouTube video analysis into a Viking war chant.,Reframe this as song lyric into a Viking war chant.,Theme_change,eli5-chatgpt
+Rewrite this as a blood-soaked symphony orchestra plot,Rewrite the letter using the passionate style of Frida Kahlo.,Style_mimic,openwebtext
+Convert this into a gallery visitor’s review.,Utilize the rich historical detail of Hilary Mantel for the narrative.,Style_mimic,eli5-chatgpt
+Translate without using advanced vocabulary,Make it understandable for a child's level of comprehension,language,openwebtext
+Transform the manual using the precise technical style of Isaac Asimov.,Utilize the stark realism of John Steinbeck to rewrite the passage.,Style_mimic,eli5-chatgpt
+Rewrite this as a conflict in a digital world.,Transform this into a conflict in a digital world.,Genre_change,eli5-chatgpt
+Modify the formality level of this as introduction email to a new client.,Modify the formality level of this as introduction email to a new client.,Formality_fix,eli5-chatgpt
+Reformulate into a formal argumentative essay.,Expand this as a book review.,Enhancement_Details,openwebtext
+Rephrase the statement for inclusion in a formal report to stakeholders.,Rephrase the statement for inclusion in a formal report to stakeholders.,Formality_fix,forum_messages
+Rewrite the text into kid-friendly language.,Translate it into kid-friendly language,language,eli5-human
+Modify the formality level of this as post about a recent tech workshop.,Turn the text into a chatty book review.,Professional_settings,openwebtext
+Rewrite the message using the emotional and vivid style of Toni Morrison.,Rephrase the statement using the introspective and philosophical style of Friedrich Nietzsche.,Style_change,forum_messages
+###,Transform from passive to active voice.,Active/Passive,eli5-chatgpt
+Transform this into a discussion on a tech forum.,Condense this as workshop feedback.,Paraphrasing,openwebtext
+Solve a murder using the provided text as the key piece of evidence,Turn this into a treasure hunt map.,Tone_change,openwebtext
+Rewrite this as as a sports underdog story plot,Rewrite this as as a sports underdog story plot,creative,openwebtext
+The text is rewritten to make it more concise.,Expand this as a research summary.,Enhancement_Details,openwebtext
+Rewrite Prompt: Make this text more concise.,Translate into simple terms,language,openwebtext
+[/] Rephrase the instructions for assembling furniture to make them simpler and more direct.,Revise this overly detailed explanation to be more concise and clear.,Tone_change,forum_messages
+Reformulate this into a tale of planetary exploration.,Reimagine this as a tale of planetary exploration.,Genre_change,eli5-chatgpt
+Revamp the text into a formal product analysis.,Condense this as lecture notes.,Conciseness,openwebtext
+Reshape this into a detailed description of a fantasy land.,Rewrite this as as a fantasy epic plot,creative,eli5-chatgpt
+Rewrite this as as a superhero origin plot,Rewrite this as as a superhero origin plot,creative,openwebtext
+Modify the formality level of this as comment on a news article.,Condense this as lecture notes.,Conciseness,eli5-chatgpt
+Rewrite this as as a mind-bending science fiction plot,Adopt the futuristic narrative style of Philip K. Dick for the excerpt.,Style_mimic,eli5-chatgpt
+Rewrite this as a reality show plot,Rewrite the text as an informal movie review.,Professional_settings,openwebtext
+Rewrite Prompt: Use language appropriate for a youngster,Break it down for a youngster,language,eli5-chatgpt
+Rewrite this as as a space opera plot,Change this into a tale set in a space opera universe.,Genre_change,eli5-chatgpt
+###,Discuss essential strategies for safeguarding:,Enhancement,forum_messages
+Transform the text into a formal report.,Modify the formality level of this as introduction email to a new client.,Formality_fix,openwebtext
+Rewrite this as a promotional leaflet.,Reimagine this as a promotional leaflet for a virtual performance.,Genre_change,openwebtext
+Rewrite this as real estate listing.,Rewrite this as a theater program synopsis.,Paraphrasing,openwebtext
+Redo this as blog post about digital nomads as a nomadic tribe's story.,Redo this as blog post about digital nomads as a nomadic tribe's story.,Theme_change,eli5-chatgpt
+Rewrite this as a promotional leaflet.,Modify the formality level of this as invitation to a professional networking event.,Formality_fix,openwebtext
+Convert this as as a satirical song parody of a traditional Caribbean steel drum tune.,Translate this as into a catchy ska tune,music,openwebtext
+Translate this as into a soulful jazz ballad,Translate this as into a soulful jazz ballad,music,eli5-chatgpt
+This is a rewrite of the source text as a dramatic opera plot,Transform this as into an epic orchestral piece,music,eli5-chatgpt
+Simplify the explanation,Make it understandable for a young audience,language,openwebtext
+###,Reformulate the proposal to highlight the benefits and expected outcomes:,Professional_settings,forum_messages
+Soften the tone of the following technical procedure.,Soften the tone of the following technical procedure.,Tone_change,forum_messages
+Rewrite the text to mirror the emotional depth of Leo Tolstoy.,Describe the event from the viewpoint of a bystander who has a different emotional reaction.,Perspective_shift,forum_messages
+Adopt the futuristic narrative style of Philip K. Dick for the excerpt.,Simplify this as wine tasting notes.,Paraphrasing,openwebtext
+[/] Rework the text into formal correspondence.,Describe it like you're talking to a child,language,openwebtext
+Rewrite the text as an informal movie review.,Rewrite the text as an informal movie review.,Professional_settings,eli5-human
+Revise the message to match the formalities of an international symposium.,Redraft the document to align with formal NGO correspondence.,Formality_fix,forum_messages
+###,Turn this into a treasure hunt map.,Tone_change,openwebtext
+Revise the message to match the formalities of an international symposium.,Transform the message to emphasize a more professional tone.,Tone_change,forum_messages
+###,Reformulate the proposal to highlight the benefits and expected outcomes:,Professional_settings,forum_messages
+Add a poetic twist to this passage.,Add a poetic twist to this passage.,Tone_change,eli5-chatgpt
+Rewrite this as as a spy espionage plot,Turn this into an excerpt from a spy novel.,Tone_change,eli5-chatgpt
+###,Transform this into a blog post.,Perspective_shift,openwebtext
+Present it in a child-friendly tone,Describe it like you're speaking to a child,language,eli5-human
+Rewrite this as if it were a comic strip dialogue.,Rewrite this as if it were a comic strip dialogue.,Tone_change,openwebtext
+Rewrite Prompt: Explain without using technical terms,Explain without complicated terminology,language,eli5-human
+Rewrite Prompt: Emulate the futuristic style of Philip K. Dick for the narrative.,Rewrite this as as a space exploration adventure plot,creative,openwebtext
+Rewrite Prompt: Add an action movie tone to this report.,Infuse an action movie tone into this report.,Tone_change,openwebtext
+Reframe the report to emphasize commitments and progress toward goals:,Reframe the report to emphasize commitments and progress toward goals:,Professional_settings,forum_messages
+Rewrite Prompt: Modify the formality level of this as summary of a finance-related podcast.,Rewrite this as as a poignant choral arrangement,music,eli5-chatgpt
+Rewrite this as as a conspiracy theory plot,Make this sound like a conspiracy theory.,Tone_change,Poetry
+,Describe it like you're explaining to a kid,language,openwebtext
+Rewrite the text into formal grant proposal language.,Expand this as grant proposal to provide more detailed plans and justifications.,Enhancement_Details,eli5-chatgpt
+Rewrite this as as a political conspiracy thriller plot,Rewrite this as as a political conspiracy thriller plot,creative,openwebtext
+Adopt the futuristic narrative style of Philip K. Dick for the excerpt.,Adopt the futuristic narrative style of Philip K. Dick for the excerpt.,Style_mimic,eli5-chatgpt
+[/] Revamp the text to echo the manner of explaining technical solutions.,Detail an explanation or instruction from the perspective of someone who is experiencing it for the first time.,Perspective_shift,forum_messages
+Make this description shorter and to the point.,Make this description shorter and to the point.,Conciseness,eli5-chatgpt
+Rewrite this as as a virtual reality game plot,Transform this into a conflict in a digital world.,Genre_change,eli5-chatgpt
+Rewrite this as as a sci-fi adventure plot,Turn this into a sci-fi story about spiritual technology.,Genre_change,eli5-chatgpt
+Rewrite this as email to a colleague to make it sound overly dramatic.,Rewrite this as email to a colleague to make it sound overly dramatic.,Tone_change,eli5-chatgpt
+Reformulate this into a baking competition plot,Rewrite this as as a cooking competition plot,creative,eli5-chatgpt
+Reformulate into a formal presentation.,Rephrase this as design concept presentation.,Paraphrasing,eli5-chatgpt
+###,Transform the message to emphasize a more professional tone.,Tone_change,forum_messages
+Make it understandable for a young child,Translate into kid-friendly terms,language,openwebtext
+Rewrite this as as a conspiracy theory thriller plot,Rewrite this as as a mystery novel.,Tone_change,eli5-chatgpt
+Reformulate this as wilderness adventure plot,Adapt this as apartment listing into a description of a medieval castle.,Theme_change,eli5-chatgpt
+- Utilize their expertise in film directing to create engaging and informative videos about gardening and horticulture.,Rewrite this as a gardening guide.,Paraphrasing,openwebtext
+Modify the formality level of this as recipe description for a cooking blog.,Modify the formality level of this as recipe description for a cooking blog.,Formality_fix,eli5-chatgpt
+Rewrite the text into a formal report.,Expand this as a financial report.,Enhancement_Details,eli5-chatgpt
+Transform this into a public service announcement.,Announce as a public service announcement on radio.,Genre_change,forum_messages
+[/] Rephrase the message to include more technical jargon relevant to specialists in the field.,Change the language to include more technical jargon relevant to specialists.,Theme_change,forum_messages
+###,Reword the text to parallel the style of discussing advanced data analysis techniques.,Paraphrasing,forum_messages
+###,Describe it like you're speaking to a child,language,openwebtext
+Make it understandable for a young child,Make it understandable for a young child,language,eli5-human
+###,Rephrase the text to simulate the style of coding practice descriptions.,Paraphrasing,forum_messages
+###,Redesign the guidelines to ensure they are comprehensive and easy to follow:,Professional_settings,forum_messages
+Rewrite this as meeting transcript.,Condense this as meeting transcript.,Conciseness,eli5-human
+Modify the formality level of this as abstract presentation for a professional conference.,Rewrite this as conference abstract to make it more concise.,Conciseness,eli5-chatgpt
+Rewrite this as as a cross-country road trip plot,Rewrite this with a space adventure theme.,Tone_change,Poetry
+Reformulate this into a steampunk airship manual.,Rewrite this as flight safety instruction into a steampunk airship manual.,Theme_change,eli5-chatgpt
+Translate into simple language,Translate into simple language,language,eli5-chatgpt
+Rewrite this as as a jungle adventure plot,Rewrite this as as a jungle adventure plot,creative,Poetry
+Rewrite this as as a twisted narrative plot,Adopt a twisted narrative for this as tale,creative,eli5-chatgpt
+Modify the formality level of this as feedback on a restaurant visit.,Modify the formality level of this as comment on a news article.,Formality_fix,eli5-chatgpt
+Rewrite Prompt: Explain without using technical terms,Enhance this as a podcast summary.,Enhancement_Details,openwebtext
+Transform this into a satirical news article in a future society.,Convert this into a satirical news article in a future society.,Genre_change,openwebtext
+Change the passive voice sentence to an active voice sentence.,"Please rewrite the sentence using active voice, emphasizing the performer of the action.",Active/Passive,forum_messages
+Revise the message to be suitable for a high-stake investor meeting.,Rephrase the statement for a formal business proposal.,Formality_fix,forum_messages
+Convert this into a satirical news article in a future society.,Turn this into a gossip column piece.,Tone_change,Poetry
+###,Redesign the guidelines to ensure they are comprehensive and easy to follow:,Professional_settings,forum_messages
+Rewrite Prompt: Simplify without resorting to scientific terminology,Describe without using difficult words,language,eli5-human
+Convert this impersonal text into a personalized message.,Rewrite the text to enhance clarity and conciseness.,Theme_change,forum_messages
+Change this into a superhero narrative.,Add a superhero narrative to this paragraph.,Tone_change,eli5-chatgpt
+Modify the formality level of this as review of a popular novel.,Translate into child-appropriate language,language,eli5-chatgpt
+[/],Streamline this as a tutorial.,Conciseness,openwebtext
+Rewrite the text into prepared statements for a meeting.,Rewrite this as a therapy session summary.,Enhancement_Details,openwebtext
+Alter the text from passive to active voice.,Change the text from passive to active voice.,Active/Passive,eli5-chatgpt
+Rewrite the text in the clear and analytical style of Isaac Asimov.,Use the elaborate and descriptive style of Charles Dickens to reformulate the text.,Style_change,forum_messages
+Rewrite Prompt: Modify the formality level of this as description of a travel itinerary.,Channel the logical structure of Aristotle to revise the text.,Style_mimic,openwebtext
+###,Reformulate the content for presentation in a formal educational setting.,Formality_fix,forum_messages
+Enhance this as user manual to add more detail on troubleshooting steps.,Rewrite this as user manual to enhance its detail on troubleshooting steps.,Enhancement_Details,eli5-chatgpt
+Rewrite this as a podcast episode summary.,Paraphrase this as podcast episode summary to make it more captivating.,Paraphrasing,eli5-chatgpt
+###,Reformulate the content to suit the formalities of a corporate annual report.,Formality_fix,forum_messages
+Use language appropriate for a child,Use language appropriate for a child,language,eli5-human
+Modify the text to focus on a customer-centric view.,Redraft the description to be more appealing to potential customers:,Professional_settings,forum_messages
+Rewrite Prompt: Modify the formality level of this as product review on an e-commerce website.,Rewrite this as conference abstract to make it more concise.,Conciseness,openwebtext
+Rewrite this as as a haunted house mystery plot,Transform this into a mystery story about an old mansion.,Genre_change,eli5-chatgpt
+Transform the text into a formal personal bio for a professional site.,Condense this as forum post into a clear and brief summary.,Paraphrasing,openwebtext
+Make this text more concise.,Make this more concise by cutting out fluff.,Conciseness,eli5-chatgpt
+###,Discuss the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Perspective_shift,forum_messages
+Convert this as as a tender lullaby,Modify the formality level of this as request for information from a government agency.,Formality_fix,openwebtext
+Rewrite Prompt: Condense this as an investment strategy.,Simplify this as an investment strategy.,Paraphrasing,eli5-chatgpt
+###,Discuss the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Perspective_shift,forum_messages
+Rewrite the text to echo the manner of explaining technical solutions.,Enhance the enthusiasm in this standard greeting.,Tone_change,forum_messages
+Transform the article using the investigative style of Hunter S. Thompson.,Channel the elaborate prose of Charles Dickens to revise the paragraph below.,Style_mimic,openwebtext
+Solve a murder mystery with this text as the key piece of evidence,Rewrite this as as a treasure hunt adventure plot,creative,openwebtext
+Discuss the impact or importance of a topic from the viewpoint of someone negatively affected by it.,Discuss the impact or importance of a topic from the viewpoint of someone negatively affected by it.,Perspective_shift,forum_messages
+Rewrite Prompt: Rephrase the casual social media post into a professional announcement.,Paraphrase this as medical journal article.,Paraphrasing,openwebtext
+Rephrase the text to meet the standards of a professional panel discussion.,Describe in a way that's easy for children to comprehend,language,eli5-human
+Translate the casual text into a formal request.,Condense this as an artist biography.,Paraphrasing,openwebtext
+Adjust the pitch to be more persuasive and highlight unique selling points:,Adjust the pitch to be more persuasive and highlight unique selling points:,Professional_settings,forum_messages
+Rewrite this as as a conspiracy theory thriller plot,Rewrite this as as a mystery thriller plot,creative,openwebtext
+Rewrite Prompt: Use the powerful style of Frederick Douglass to alter the account.,Add an epic battle tone to this plan.,Tone_change,eli5-chatgpt
+Rewrite this text to make it shorter.,Make this description shorter and to the point.,Conciseness,eli5-human
+Rewrite this as as a post-apocalyptic adventure plot,Adapt this into a post-apocalyptic survival story.,Genre_change,eli5-chatgpt
+Rewrite this as as a young child's storybook.,Use language suitable for a young audience,language,eli5-chatgpt
+Rewrite Prompt: Change the text from passive to active voice.,Switch from passive to active voice.,creative,eli5-human
+Rewrite the text with the dramatic flair of Tennessee Williams.,Convert this into a fantasy novel excerpt.,Tone_change,openwebtext
+Reconfigure this into a virtual reality game scenario.,Transform this into a conflict in a digital world.,Genre_change,eli5-chatgpt
+Identify and explain the differences in opinions or preferences from the perspective of someone who holds an opposing belief or preference.,Offer a summary or explanation from the perspective of someone who has opposite interests or priorities.,Perspective_shift,forum_messages
+Rewrite this as as a space opera plot,Adapt this into a sci-fi short story about advanced civilizations.,Genre_change,openwebtext
+###,Reformulate the text to imitate the format of a process overview.,Paraphrasing,forum_messages
+Rewrite the statement from the perspective of someone who has opposite interests or priorities.,Offer a summary or explanation from the perspective of someone who has opposite interests or priorities.,Perspective_shift,forum_messages
+Rewrite this as as an upbeat reggae tune,Rewrite this as as an upbeat reggae tune,music,openwebtext
+###,Outline the steps involved in building and sustaining:,Enhancement,forum_messages
+Modify the formality level of this as speech at a public rally.,Rewrite this as political speech.,Tone_change,openwebtext
+Condense this as lecture notes.,Modify the formality level of this as introduction for a research paper.,Formality_fix,openwebtext
+###,Explain the reasoning or motivation behind an action from the perspective of someone who questions its necessity.,Perspective_shift,forum_messages
+Convert this into a satirical news article in a future society.,Redo this as blog post about digital nomads as a nomadic tribe's story.,Theme_change,openwebtext
+Condense this as lecture notes.,Rewrite the following text to make them simpler.,Paraphrasing,openwebtext
+Change the text from passive to active voice.,Paraphrase the following as scientific abstract.,Paraphrasing,eli5-chatgpt
+Simplify the concept,Describe using everyday language,language,openwebtext
+Redraft the document to align with formal NGO correspondence.,Adjust the tone of this professional email to be more inviting.,Tone_change,forum_messages
+Condense this as lecture notes.,Make it clear for a child to comprehend,language,openwebtext
+Rewrite this from passive to active voice.,Modify from passive to active voice.,creative,eli5-chatgpt
+Rephrase this as design concept presentation.,Rephrase this as design concept presentation.,Paraphrasing,eli5-human
+Rewrite the text to reflect the manner of requesting detailed explanations.,Discuss the advantages of a certain lifestyle or practice from the perspective of someone who prefers an opposite lifestyle.,Perspective_shift,forum_messages
+Adopt the poetic and rhythmic style of Maya Angelou to alter the text.,Mimic the poetic and rhythmic style of Maya Angelou in the following message.,Style_change,forum_messages
+Explain without using advanced vocabulary,Clarify without using advanced vocabulary,language,eli5-chatgpt
+Revamp into a formal argumentative essay.,Summarize this as an article to focus on the main points.,creative,eli5-human
+Rewrite this as an epic poem style.,Rewrite this as as a musical theater plot,creative,openwebtext
+Rewrite this as email to a colleague to make it sound overly dramatic.,Transform this as email complaint into a Victorian scandal letter.,Theme_change,openwebtext
+Rewrite the text to mirror the style of a detective mystery.,Use the naturalistic style of George Orwell to rewrite the story.,Style_mimic,eli5-chatgpt
+Reformulate this into a formal argumentative essay.,Restyle into a professional cookbook format.,Professional_settings,openwebtext
+Rewrite this as a theater program synopsis.,Rewrite this as a theater program synopsis.,Paraphrasing,eli5-human
+The text is rewritten in a formal professional biography style.,Clarify without using advanced vocabulary,language,openwebtext
+Rewrite this as as a technical description.,Explain without using complicated terms,language,openwebtext
+Change this informal discussion of a personal experience into a presentation at a royal court.,Shift this as startup pitch into a presentation at a royal court.,Theme_change,eli5-chatgpt
+Convert this into a legal brief.,Transform this into a legal brief.,Perspective_shift,eli5-chatgpt
+Reimagine this as a log entry on a space exploration diary.,Recreate this as a captain's log aboard an interstellar ship.,Genre_change,openwebtext
+Potential reasons for being rejected include:,Detail procedures for addressing and escalating concerns regarding:,Enhancement,forum_messages
+Rewrite this as as a spy espionage plot,Rewrite this as as a spy espionage plot,creative,openwebtext
+Revamp the text into a formal business proposal.,Enhance this as business proposal to add more details about the market analysis.,Enhancement_Details,eli5-chatgpt
+Convert this into a fanfare trumpet solo,Rewrite this as as a poignant choral arrangement,music,eli5-chatgpt
+Rewrite this as a wartime strategy session.,Revise this as business meeting into a wartime strategy session.,Theme_change,eli5-chatgpt
+Rewrite the text with the vivid descriptions of Paul Theroux.,Rewrite this as sports commentary.,Enhancement_Details,openwebtext
+Revise the email from passive to active voice.,Revise the email from passive to active voice.,Active/Passive,eli5-human
+Change this casual request for information into a professional request for details.,Recast the text to match the manner of requesting detailed explanations.,Paraphrasing,forum_messages
+Rewrite Prompt: Engage in a laid-back and non-technical discussion about the topic.,Discuss a cultural or popular trend from the perspective of someone who is disconnected from mainstream culture.,Perspective_shift,forum_messages
+###,Describe the key principles and their importance regarding:,Enhancement,forum_messages
+Redraft the document to align with formal NGO correspondence.,Transform the message to emphasize a more professional tone.,Tone_change,forum_messages
+Condense this as children's story without losing its charm.,Condense this as children's story without losing its charm.,Paraphrasing,eli5-chatgpt
+Convert the feedback to be more constructive and actionable:,Modify the feedback to be more constructive and actionable:,Professional_settings,forum_messages
+Describe it like you're talking to a youngster,Describe it like you're talking to a youngster,language,eli5-chatgpt
+Convert this into a gallery of medieval weaponry.,Modify the feedback into formal educational critique.,Professional_settings,eli5-chatgpt
+Rewrite this as as a lively pop song,Emulate the playful tone of Dr. Seuss for the text.,Style_mimic,openwebtext
+Rewrite this as as a psychological drama plot,Channel the emotional depth of Khaled Hosseini to revise the story.,Style_mimic,openwebtext
+Simplify the concept,Redraft the message to simplify the terminology for better understanding.,Theme_change,forum_messages
+Rewrite this as as a casino heist caper plot,Rewrite this as as a reality show competition plot,creative,openwebtext
+Redraft the document to align with formal NGO correspondence.,Redraft the document to align with formal NGO correspondence.,Formality_fix,forum_messages
+Reimagine this as an interactive choose-your-own-adventure book.,Reimagine this as an interactive choose-your-own-adventure book.,Genre_change,eli5-chatgpt
+Rewrite Prompt: Translate the casual text into a formal cinematic critique.,Adopt the futuristic narrative style of Philip K. Dick for the excerpt.,Style_mimic,eli5-chatgpt
+Condense this as lecture notes.,Condense this as forum post into a clear and brief summary.,Paraphrasing,openwebtext
+###,Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+Adapt this as board game instruction into a medieval tournament rulebook.,Adapt this as board game instruction into a medieval tournament rulebook.,Theme_change,openwebtext
+Rewrite this as as a romantic comedy plot,Transform this as into an epic orchestral piece,music,eli5-chatgpt
+Simplify the explanation for a child,Simplify the explanation for a child,language,eli5-human
+###,Outline the steps involved in building and sustaining:,Enhancement,forum_messages
+Transform this sarcastic comment into a sincere compliment.,Transform this sarcastic comment into a sincere compliment.,Tone_change,forum_messages
+###,Outline the steps involved in building and sustaining:,Enhancement,forum_messages
+,Rewrite this as a therapy session summary.,Enhancement_Details,openwebtext
+Rewrite this as conference abstract to make it more concise.,Modify the formality level of this as feedback on a legal consultation.,Formality_fix,openwebtext
+Rewrite this as as a sports commentary.,Turn this into a description of a chariot race.,Theme_change,openwebtext
+Reformulate the text to suit the formalities of a royal court.,Shift this as startup pitch into a presentation at a royal court.,Theme_change,openwebtext
+Infuse a noir style into this description.,Emulate the horror style of Stephen King to revise the excerpt.,Style_mimic,openwebtext
+Use language appropriate for kids,Use language appropriate for kids,language,eli5-human
+Transform the manual with the clear guidance of Quentin Tarantino.,Emulate the vibrant dialogue of Quentin Tarantino in the script.,Style_mimic,eli5-chatgpt
+Rewrite the text to conform to high-level business communication.,Rewrite the text to conform to high-level business communication.,Formality_fix,forum_messages
+Convert this impersonal text into a personal narrative.,Detail a personal story or anecdote from the perspective of another person involved in the story.,Perspective_shift,forum_messages
+Rewrite the text using the simplest possible language.,Make it simple for a child to grasp,language,eli5-chatgpt
+Rewrite this as as a magical adventure plot,Change this into a fantasy novel.,Genre_change,eli5-chatgpt
+"Rewrite the sentence using passive voice, highlighting the impact of the action.","Please rewrite the sentence using passive voice, highlighting the impact of the action.",Active/Passive,forum_messages
+###,Evaluate the benefits of using platforms for:,Enhancement,forum_messages
+Make it understandable for a young child,Make it understandable for a young child,language,eli5-chatgpt
+,Turn this as fitness app tutorial into a guide for medieval squire training.,Theme_change,openwebtext
+- Those seeking a blend of rural charm and modern comfort.,Enhance this as a fashion article.,Enhancement_Details,openwebtext
+[/] Revamp the text with the gripping narrative of J.K. Rowling.,Rewrite this as as a mystery thriller plot,creative,openwebtext
+Make it understandable for a five-year-old,Make it understandable for a five-year-old,language,eli5-human
+Expand this as a grant proposal.,Rephrase this as a research grant proposal.,Paraphrasing,openwebtext
+Rewrite this as as a dynamic hip-hop rap verse,Rewrite this as as an upbeat reggae tune,music,eli5-chatgpt
+Redraft the message to tone down the enthusiasm.,Modify this joyous exclamation to be more subdued and professional.,Tone_change,forum_messages
+Modify the formality level of this as review of a recent movie.,Modify the formality level of this as announcement of a new company policy.,Formality_fix,eli5-chatgpt
+Rewrite this as a conspiracy theory plot,Make this sound like a conspiracy theory.,Tone_change,eli5-chatgpt
+Rewrite this as as a spy espionage plot,Rewrite this as as a spy espionage plot,creative,Poetry
+Convert into a legal brief.,Transform this into a legal brief.,Perspective_shift,openwebtext
+Outline the steps involved in building and sustaining:,Detail a personal story or anecdote from the perspective of another person involved in the story.,Perspective_shift,forum_messages
+Reformulate this into a description of a medieval castle.,Adapt this as apartment listing into a description of a medieval castle.,Theme_change,eli5-chatgpt
+Rewrite the text to copy the format of an online learning course description.,Rewrite the text to copy the format of an online learning course description.,Paraphrasing,forum_messages
+Use language appropriate for a young child's comprehension,Use language appropriate for a young child's comprehension,language,eli5-human
+the person or entity's response.,Recompose the description into a formal marketing material.,Professional_settings,openwebtext
+Convert this into a series of travel blog posts.,Refashion the text into personal diary entries.,Professional_settings,openwebtext
+Modify the formality level of this as description of a travel itinerary.,Modify the formality level of this as explanation of a complex software feature.,Formality_fix,eli5-chatgpt
+Rewrite the script using the conversational style of Ira Glass.,Modify from passive to active voice.,Active/Passive,eli5-chatgpt
+Convert this as into a Caribbean-inspired calypso song,Translate this as as a Caribbean steel drum party anthem,music,openwebtext
+Convert this as online forum discussion about video games into a debate in a philosopher's salon.,Enhance this as documentary script to add more detailed historical context.,Enhancement_Details,openwebtext
+Rewrite Prompt: Modify the formality level of this as review of a recent movie.,Explain without technical vocabulary,language,openwebtext
+###,Convert into a troubleshooting guide on a tech forum.,Genre_change,forum_messages
+###,Convert into a troubleshooting guide on a tech forum.,Genre_change,forum_messages
+Modify the tone of this complaint to be more neutral.,Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+Adapt this into a narrative about a utopian society.,Adapt this into a narrative about a utopian society.,Genre_change,eli5-chatgpt
+Modify the formality level of this as review of an online course.,Condense this as a sports game recap.,Paraphrasing,openwebtext
+,Rewrite this as as a cross-country journey plot,creative,Poetry
+Rewrite Prompt: Turn this into a casino heist plot.,Rewrite this as as a casino heist plot,creative,openwebtext
+Rewrite this as as a cooking competition reality show plot,Rewrite this as as a cooking show competition plot,creative,openwebtext
+Rewrite this as as a cowboy outlaw plot,Rewrite this as as a cowboy outlaw plot,creative,openwebtext
+Modify the formality level of this as documentary script about technology.,Convert this into a documentary script.,Perspective_shift,eli5-chatgpt
+Convert the casual tone of this conversation into a more formal dialogue.,Convert the casual tone of this conversation into a more formal dialogue.,Tone_change,forum_messages
+###,Reformulate the content to suit a professional conference presentation.,Formality_fix,forum_messages
+Modify the formality level of this as description of a new travel itinerary.,Modify the formality level of this as description of a travel itinerary.,Formality_fix,eli5-chatgpt
+Revise this as gardening guide as an alchemist's herbary.,Modify this as gardening guide into an alchemist's herbary.,Theme_change,eli5-chatgpt
+Make it understandable for a young child,Make it simple for a child to grasp,language,openwebtext
+###,Clarify without using technical terms,language,eli5-human
+Rewrite Prompt: Channel the reflective style of Ralph Waldo Emerson to rewrite the text.,Channel the reflective style of Ralph Waldo Emerson to rewrite the text.,Style_mimic,openwebtext
+###,Modify these straightforward instructions to sound more polite.,Tone_change,forum_messages
+Transform this into a technical description.,Reformulate into official tournament regulations.,Professional_settings,openwebtext
+Recompose the description into a formal tutorial.,Streamline this as a tutorial.,Conciseness,eli5-chatgpt
+Redraft the document to align with formal NGO correspondence.,Revise the message to match the formalities of an international symposium.,Formality_fix,forum_messages
+Rewrite the text into prepared statements for a meeting.,Rewrite this as a training manual to include more detailed procedures and examples.,Enhancement_Details,eli5-chatgpt
+Change the tone of the text to make it more engaging and informal.,Rephrase the content to make it more engaging for a lay audience.,Theme_change,forum_messages
+Rephrase this as a professional biography.,Convert the text into a formal personal bio for a professional site.,Professional_settings,eli5-chatgpt
+Change this recipe into a guide for preparing a dessert.,Shorten this as a dessert recipe.,Conciseness,eli5-chatgpt
+[/] Rewrite this as as a modern fairy tale romance plot,Rewrite this as as a modern fairy tale romance plot,creative,openwebtext
+Condense this as lecture notes.,Modify the formality level of this as thank you note after a job interview.,Formality_fix,openwebtext
+Rewrite the text to echo the manner of explaining technical solutions.,Redraft the description to be more appealing to potential customers:,Professional_settings,forum_messages
+Adapt this into a fantasy novel.,Rewrite this as if it were a tale from ancient mythology.,Theme_change,openwebtext
+###,Develop into a technical white paper.,Genre_change,forum_messages
+Outline the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Discuss the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Perspective_shift,forum_messages
+Rewrite Prompt: Use the minimalist style of Raymond Carver to revise the short story.,Enhance this as a fashion article.,Enhancement_Details,openwebtext
+Make it clear for a child,Make it clear for a child to comprehend,language,eli5-human
+Rewrite the text to conform to the philosophical tone of Plato.,Rephrase this as philosophical argument to make it easier to understand.,Paraphrasing,eli5-chatgpt
+Convert this into a gossip column piece.,Turn this into a gossip column piece.,Tone_change,openwebtext
+Convert into a technical description.,Explain without using technical terms,language,eli5-human
+Convert this as as into a medieval bard’s song.,Put this as as a haunting Gregorian chant,music,openwebtext
+Change this as into a soulful jazz ballad,Rewrite this as as an upbeat reggae tune,music,eli5-chatgpt
+Turn this into a late-night TV show monologue.,Rewrite this with a comedy stand-up script.,Tone_change,openwebtext
+Rewrite Prompt: Change the text from passive to active voice.,Change the text from passive to active voice.,language,eli5-human
+Reimagine this as smartphone review as if it were a discovery in the 1800s.,Utilize the descriptive style of J.R.R. Tolkien to rewrite the text.,Style_mimic,openwebtext
+Rewrite this as as a nostalgic 80s power ballad,Make this as text a melancholic indie folk melody,music,eli5-chatgpt
+###,Discuss the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Perspective_shift,forum_messages
+Condense this as an artist biography.,Condense this as an artist biography.,Paraphrasing,eli5-chatgpt
+Transform the text into a structured educational course material.,Reword this as fitness guide to make it simpler and more direct.,Paraphrasing,openwebtext
+Adapt this defensive response to be more accepting of feedback.,Adapt this defensive response to be more accepting of feedback.,Tone_change,forum_messages
+,Modify the formality level of this as business proposal to potential investors.,Formality_fix,openwebtext
+Narrate an experience or event from the perspective of someone who had a contrasting experience.,Narrate an experience or event from the perspective of someone who had a contrasting experience.,Perspective_shift,forum_messages
+Expand this as a marketing pitch.,Rewrite this into a detailed analysis blog post.,Perspective_shift,openwebtext
+Rewrite this as science explanation.,Translate into child-appropriate language,language,openwebtext
+Rewrite Prompt: Rework this into a fairy tale.,Add an adventure theme to this passage.,Tone_change,openwebtext
+Draft for a customer newsletter.,Draft for a customer newsletter.,Genre_change,forum_messages
+Modify the formality level of this as summary of a historical documentary.,Modify the formality level of this as summary of a historical documentary.,Formality_fix,openwebtext
+Convert this into a gallery visitor’s review.,Revise the text to reflect a more informal and conversational style.,Theme_change,forum_messages
+Change the text wording from passive to active voice.,Update the given text from passive to active voice.,language,eli5-human
+Rewrite the text to conform to high-level business communication.,Restructure the message to make it more appealing to a global audience.,Theme_change,forum_messages
+Modify the formality level of this as summary of a scientific article.,Paraphrase this as an online course description.,Paraphrasing,eli5-chatgpt
+Rephrase the instructions into formal technical manuals.,Rewrite this as as a technical description.,Paraphrasing,openwebtext
+Reformulate this into a narrative from a fantasy world.,Change this into a fantasy novel.,Genre_change,eli5-chatgpt
+Rewrite this as as a political thriller plot,Rewrite this as as a conspiracy theory thriller plot,creative,openwebtext
+Revise the message to adhere to the tone of an official government document.,Revise the message to adhere to the tone of an official government document.,Formality_fix,forum_messages
+Rewrite this as an educational resource list.,Make this as fitness routine description.,Tone_change,openwebtext
+Rewrite the text into prepared remarks for a conference presentation.,Rewrite this as conference abstract to make it more concise.,Conciseness,eli5-human
+Convert this as fashion magazine article into a Victorian era letter.,Convert this as fashion magazine article into a Victorian era letter.,Theme_change,eli5-chatgpt
+Rewrite this as as a sultry bossa nova jazz standard,Describe this as as a sultry bossa nova jazz standard,music,eli5-chatgpt
+Rewrite Prompt: Use the given as a time traveler's diary entry.,Rewrite this as as a coming-of-age story plot,creative,openwebtext
+###,"Please rewrite the sentence using passive voice, focusing on the receiver of the action.",Active/Passive,forum_messages
+,Rephrase this as travel itinerary.,Paraphrasing,openwebtext
+Translate this as as a groovy funk-rock fusion track,Translate this as into a smooth R&B groove,music,openwebtext
+Expand this as grant proposal to provide more detailed plans and justifications.,Expand this as grant proposal to provide more detailed plans and justifications.,Enhancement_Details,eli5-chatgpt
+###,Outline the steps involved in building and sustaining:,Enhancement,forum_messages
+Rewrite Prompt: Simplify this as a tutorial.,Streamline this as a tutorial.,Conciseness,eli5-human
+Reframe this as travel guide to include more detailed tips.,Make this sound like a travel brochure.,Tone_change,openwebtext
+Redesign the course description to make it more appealing to potential students.,Rewrite the text to copy the format of an online learning course description.,Paraphrasing,forum_messages
+Simplify the explanation for a child,Clarify using words a child would know,language,eli5-human
+Transform the text using the elaborate and descriptive style of Charles Dickens.,Adopt the writing style of Virginia Woolf to alter the text below.,Style_change,forum_messages
+Make it kid-friendly,Translate it into kid-friendly language,language,openwebtext
+Transform the text into a celebrity interview.,Paraphrase this as celebrity interview.,Paraphrasing,eli5-human
+###,Amend the message to incorporate examples that illustrate the points better.,Theme_change,forum_messages
+Modify the formality level of this as comment on a news article.,Modify the formality level of this as feedback on a restaurant visit.,Formality_fix,openwebtext
+Rewrite this as as a nostalgic 80s power ballad,Convert this into a break-up song lyric.,Perspective_shift,openwebtext
+Redefine the informal health tips into a formal medical advisory.,Rephrase the statement for a polished scientific publication.,Formality_fix,forum_messages
+Rewrite the text to conform to high-level business communication.,Revise the message to match the formalities of an international symposium.,Formality_fix,forum_messages
+Adapt this defensive response to be more accepting of feedback.,Adapt this defensive response to be more accepting of feedback.,Tone_change,forum_messages
+Rewrite the text to conform to high-level business communication.,Rephrase the statement to meet the norms of a professional panel discussion.,Formality_fix,forum_messages
+###,Reformulate the proposal to highlight the benefits and expected outcomes:,Professional_settings,forum_messages
+Modify the feedback to be more constructive and actionable:,Modify the feedback to be more constructive and actionable:,Professional_settings,forum_messages
+Rewrite this as a series of events in a parallel universe.,Reform this as a sci-fi narrative about health technology.,Genre_change,eli5-chatgpt
+Convert this as book review into a chatty book review.,Turn the text into a chatty book review.,Professional_settings,eli5-chatgpt
+Convert the text to match the formalities of a diplomatic dialogue.,Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+Modify the formality level of this as sports game recap.,Condense this as a sports game recap.,Paraphrasing,eli5-human
+Rewrite this as conference abstract to make it more concise.,Condense this as project plan.,Conciseness,openwebtext
+Shift this blunt refusal into a gentle declination.,Shift this blunt refusal into a gentle declination.,Tone_change,forum_messages
+Redraft the document to align with formal NGO correspondence.,Revise the message to adhere to the tone of an official government document.,Formality_fix,forum_messages
+Rewrite this text to make it shorter.,Present it in a child-friendly manner,language,openwebtext
+Rewrite the text to fit the decorum of a formal award ceremony.,Rewrite the text to fit the decorum of a formal award ceremony.,Formality_fix,forum_messages
+Use language appropriate for a young child,Use language appropriate for a young child,language,eli5-human
+Transform from passive to active voice.,"Please rewrite the sentence using active voice, emphasizing the performer of the action.",Active/Passive,forum_messages
+Redraft the document to align with formal NGO correspondence.,Rewrite the text to comply with formal HR communication.,Formality_fix,forum_messages
+```,Remodel the text into a formal training module.,Professional_settings,eli5-chatgpt
+Rewrite this as conference abstract to make it more concise.,Rephrase this as software development documentation.,Paraphrasing,openwebtext
+###,Revamp the report to clearly display the financial data and future projections:,Professional_settings,forum_messages
+Modify the formality level of this as feedback on a legal consultation.,Rephrase the instructions into formal technical manuals.,Professional_settings,openwebtext
+###,Alter the content to make it suitable for a technical discussion.,Theme_change,forum_messages
+Change the paragaraph from passive to active voice.,Alter the paragaraph from passive to active voice.,Active/Passive,eli5-chatgpt
+Rewrite the script using the conversational style of Ira Glass.,Turn this into a late-night TV show monologue.,Tone_change,eli5-chatgpt
+Rewrite this as as a jungle adventure plot,Rewrite this as as a jungle adventure plot,creative,eli5-chatgpt
+Modify the formality level of this as thank you note after a job interview.,Modify the formality level of this as post about a new art exhibition.,Formality_fix,eli5-chatgpt
+Modify the text to duplicate the style of giving clear feedback.,Modify the text to duplicate the style of giving clear feedback.,Paraphrasing,forum_messages
+Rewrite the statement from the perspective of someone who disagrees with the original opinion.,Express the content of the message as if it were being criticized by someone skeptical of its value.,Perspective_shift,forum_messages
+Rewrite Prompt: Add a mysterious vibe to this description.,Make this sound like a detective mystery.,Tone_change,openwebtext
+Reorganize the message to follow a logical flow and eliminate redundancy.,Reorganize the message to follow a logical flow and eliminate redundancy.,Theme_change,forum_messages
+Make this text more concise.,Make this text more concise.,Conciseness,eli5-human
+Make it clear for a child to grasp easily,Present it in a way a child can comprehend,language,openwebtext
+Use the vivid and rich descriptions of Gabriel García Márquez to alter the text.,Adopt the surreal and vivid style of Gabriel García Márquez to alter the text.,Style_change,forum_messages
+Convert this as into a Caribbean-inspired calypso song,Translate this as into a catchy ska tune,music,openwebtext
+Alter this as radio advertisement into a herald's proclamation in a medieval marketplace.,Alter this as radio advertisement into a herald's proclamation in a medieval marketplace.,Theme_change,eli5-chatgpt
+Rewrite the text to shift from a formal announcement to a casual notification.,Shift from a formal announcement to a casual notification.,Tone_change,forum_messages
+This text has been rewritten from passive to active voice.,Make this text more concise.,Conciseness,openwebtext
+Rewrite the text using the critical voice of Roger Ebert.,Use the elaborate and descriptive style of Charles Dickens to reformulate the text.,Style_change,forum_messages
+Reformulate the text to remove any colloquialisms and make it more formal.,Reformulate the text to remove any colloquialisms and make it more formal.,Theme_change,forum_messages
+Modify the formality level of this as summary of a finance-related podcast.,Modify the formality level of this as query about a university course.,Formality_fix,openwebtext
+Rewrite the text to copy the format of an online course description.,Transform the explanation into simpler language for a non-expert audience:,Professional_settings,forum_messages
+Convert this into a personal diary entry.,Rewrite this as personal diary entry.,Perspective_shift,eli5-chatgpt
+,Rewrite this as as a medical mystery plot,creative,Poetry
+Rewrite the text to simplify the explanation.,Break it down for a child to understand,language,eli5-chatgpt
+Rewrite this as email to a colleague to make it sound overly dramatic.,Rewrite this as email to a colleague to make it sound overly dramatic.,Tone_change,openwebtext
+Rewrite this as a fashion article.,Enhance this as a fashion article.,Enhancement_Details,eli5-chatgpt
+###,Provide a detailed explanation of:,Enhancement,forum_messages
+"Rewrite Prompt: ""Rather than veer off course, let's break it down (ELI5) this question.""",Rewrite this from passive to active voice.,Active/Passive,eli5-human
+Rewrite this as as a wild west adventure plot,Rewrite this as as a wild west adventure plot,creative,eli5-chatgpt
+Change the text from passive to active voice.,Rewrite this from passive to active voice.,Active/Passive,eli5-human
+Adopt the mystical prose of Gabriel Garcia Marquez for the story.,Change this into a fantasy novel.,Genre_change,openwebtext
+Rewrite Prompt: Modify the formality level of this as introduction email to a new client.,Transform into a formal discussion.,Professional_settings,openwebtext
+Convert this impersonal text into a formal business proposal.,Adjust into a professional business response.,Professional_settings,eli5-chatgpt
+###,Revise the following to enhance its clarity and professionalism:,Professional_settings,forum_messages
+Revise into official comments for the press release.,Revise into official comments for the press release.,Professional_settings,openwebtext
+Rewrite this as as a Caribbean-inspired calypso song,Rewrite this as as a Caribbean-inspired calypso song,music,openwebtext
+Simplify the explanation,Condense this as workshop feedback.,Paraphrasing,eli5-human
+Engineer a time machine powered by quilted fabric,Engineer a time machine powered by quilted fabric,creative,eli5-chatgpt
+###,Discuss the impact or importance of a topic from the viewpoint of someone negatively affected by it.,Perspective_shift,forum_messages
+Restate the text to emulate the tone of expressing gratitude.,Restate the text to emulate the tone of expressing gratitude.,Paraphrasing,forum_messages
+Revise the text to remove any colloquialisms and make it more formal.,Reformulate this to be more concise and focused on key results:,Professional_settings,forum_messages
+###,Offer advice on effective communication and presentation techniques for:,Enhancement,forum_messages
+Modify the formality level of this as introduction to a webinar.,Turn this into a late-night TV show monologue.,Tone_change,openwebtext
+Rewrite this as if it were a series of messenger pigeon notes.,Reframe this as email newsletter into a series of messenger pigeon notes.,Theme_change,eli5-chatgpt
+###,Revise the content to enhance engagement and provide clear calls to action:,Professional_settings,forum_messages
+Rewrite the message to match the tone of expressing dissatisfaction.,Express the content of the message as if it were being criticized by someone skeptical of its value.,Perspective_shift,forum_messages
+Revise the text to match the formalities of a legal brief.,Revise into official comments for the press release.,Professional_settings,openwebtext
+Rephrase the statement for a polished scientific publication.,Rephrase the statement for a polished scientific publication.,Formality_fix,forum_messages
+Rewrite this as political speech.,Condense this as political speech.,Paraphrasing,eli5-chatgpt
+Condense this as workshop feedback.,Make this text more concise.,Conciseness,openwebtext
+Rewrite this text to make it shorter.,Rewrite this as forum post.,Perspective_shift,openwebtext
+Rewrite this as as a murder mystery plot,Solve a murder mystery with this text as the key piece of evidence,creative,eli5-chatgpt
+Convert this pessimistic outlook into an optimistic perspective.,Reconfigure this pessimistic outlook into an optimistic perspective.,Tone_change,forum_messages
+Adjust the message to highlight key points more prominently.,Adjust the message to highlight key points more prominently.,Theme_change,forum_messages
+Rewrite the script using the conversational style of Ira Glass.,Convert this into an old western showdown narration.,Tone_change,eli5-chatgpt
+Rewrite this as user manual to enhance its detail on troubleshooting steps.,Modify the formality level of this as feedback on a restaurant visit.,Formality_fix,openwebtext
+Rewrite the text with the suspenseful pacing of Stephen King.,Emulate the horror style of Stephen King to revise the excerpt.,Style_mimic,eli5-chatgpt
+###,Remodel the message to ensure it adheres to academic standards.,Theme_change,forum_messages
+Rewrite the text to cater to a child audience,Present it in a child-friendly manner,language,eli5-human
+Rephrase the statement to be appropriate for a diplomatic dialogue.,Rephrase the statement to be appropriate for a diplomatic dialogue.,Formality_fix,forum_messages
+###,Transform this as modern job interview into a medieval tournament.,Theme_change,eli5-chatgpt
+Rewrite this as political speech.,Rewrite this as political speech.,Perspective_shift,eli5-chatgpt
+Make this text more concise.,Switch from passive to active voice.,Active/Passive,eli5-chatgpt
+Solve a murder mystery with this text as the key piece of evidence,Modify the formality level of this as social media post about a recent event.,Formality_fix,openwebtext
+Convert this as a book review to discuss the finer points of wine tasting.,Expand this as a book review.,Enhancement_Details,eli5-chatgpt
+Rephrase this as technical guide to make it easier to understand.,Enhance this as a technical guide.,Enhancement_Details,eli5-chatgpt
+###,Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+Rewrite this as as a dysfunctional family drama plot,Rewrite this as as a pirate adventure plot,creative,openwebtext
+Rewrite this text to make it shorter.,Make this text more concise.,Conciseness,eli5-chatgpt
+Change the informal blog post into an academic article.,Revamp into a formal argumentative essay.,Professional_settings,eli5-human
+Mimic the style of giving clear feedback.,Break it down for a child to understand,language,eli5-human
+Rewrite the message to tone down any aggressive language.,Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+Make it understandable for a young child,Make it simple for a child to grasp,language,openwebtext
+Rewrite this as an email to a friend.,Modify the formality level of this as thank you note after a job interview.,Formality_fix,eli5-chatgpt
+Transform into a formal discussion.,Modify the formality level of this as explanation of a complex software feature.,Formality_fix,openwebtext
+,Rescript this as a survival guide in a new world.,Genre_change,Poetry
+Revamp the text into a formal technical report.,Reformulate the content to reflect the standards of an academic thesis.,Formality_fix,forum_messages
+###,Reformulate the content to reflect the standards of an academic thesis.,Formality_fix,forum_messages
+[/] Revise the message to be more polite.,Recast the text to tone down any aggressive language.,Theme_change,forum_messages
+Change the text from a formal announcement to a request for information.,Channel the analytical depth of Noam Chomsky to revise the analysis.,Style_mimic,eli5-chatgpt
+Rewrite this text to make it shorter.,Rewrite this text to make it shorter.,creative,eli5-human
+Revamp the document to suit the formalities of a business proposal.,Rephrase the statement for a formal business proposal.,Formality_fix,forum_messages
+Modify the message to cater to a younger audience.,Modify the message to cater to a younger audience.,Theme_change,forum_messages
+###,Rewrite the text for submission in an academic journal.,Formality_fix,forum_messages
+###,Revise the message for an official press release requiring elevated language.,Formality_fix,forum_messages
+Change the text wording from passive to active voice.,Enhance this as a legal document to add more detailed clauses and legal terms.,Enhancement_Details,eli5-chatgpt
+###,Restructure the materials to be more interactive and learner-friendly:,Professional_settings,forum_messages
+Redraft the document to align with formal NGO correspondence.,Rewrite the text to comply with formal HR communication.,Formality_fix,forum_messages
+Rewrite the message in the clear and analytical style of Isaac Asimov.,Edit the text to mirror the complex sentence structure of James Joyce.,Style_change,forum_messages
+Reframe to a professional case study.,Reframe to a professional case study.,Professional_settings,eli5-chatgpt
+###,Discuss essential strategies for safeguarding:,Enhancement,forum_messages
+Rewrite this as as a conspiracy theory thriller plot,Rewrite this as as a conspiracy theory thriller plot,creative,Poetry
+Rewrite Prompt: Describe the event from the viewpoint of a bystander who has a different emotional reaction.,Express enthusiasm or approval from the viewpoint of someone who is indifferent or neutral about the subject.,Perspective_shift,forum_messages
+###,Reformulate the content to suit the formalities of a corporate annual report.,Formality_fix,forum_messages
+Reformulate into a formal product analysis.,Revamp the text into a formal product analysis.,Professional_settings,eli5-human
+Rewrite Prompt: Discuss the key takeaways and impact of the course on the student's understanding of the topic.,Rearticulate the text to mirror the style of a project analysis discussion.,Paraphrasing,forum_messages
+Rewrite Prompts,Adopt the writing style of Virginia Woolf to alter the text below.,Style_change,forum_messages
+###,Highlight the necessity of precision and thoroughness in:,Enhancement,forum_messages
+Redraft the document to align with formal NGO correspondence.,Rephrase the statement for inclusion in a formal report to stakeholders.,Formality_fix,forum_messages
+Redesign the guidelines to ensure they are comprehensive and easy to follow:,Redesign the guidelines to ensure they are comprehensive and easy to follow:,Professional_settings,forum_messages
+Modify the formality level of this as post about a recent event in a local community group.,Modify the formality level of this as social media post about a recent event.,Formality_fix,openwebtext
+Use language appropriate for a young child's comprehension,Use language appropriate for a young child's comprehension,language,eli5-human
+Rewrite the statement from the perspective of someone who holds an opposing belief or preference.,Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+Rewrite this as as a gritty western revenge plot,Infuse an action movie tone into this report.,Tone_change,openwebtext
+###,Express enthusiasm or approval from the viewpoint of someone who is indifferent or neutral about the subject.,Perspective_shift,forum_messages
+Convert into a technical description.,Translate the casual text into a formal request.,Professional_settings,eli5-chatgpt
+Rewrite this as wedding invitation text.,Add a whimsical flair to this as wedding invitation text.,Tone_change,openwebtext
+Simplify this as poetry to make its themes more obvious.,Simplify this as poetry to make its themes more obvious.,creative,eli5-human
+Simplify the following recipe without losing any essential steps.,Explain without using big words,language,eli5-human
+Reformulate the text into a formal presentation.,Reformulate into a formal presentation.,Professional_settings,eli5-chatgpt
+Rephrase the casual social media post into a professional announcement.,Rewrite this as conference talk transcript.,Paraphrasing,openwebtext
+Translate the text into a formal medical journal article.,Paraphrase this as medical journal article.,Paraphrasing,eli5-human
+Translate this as as a Caribbean steel drum party anthem,Translate this as as a Caribbean steel drum party anthem,music,openwebtext
+Rewrite Prompt: Use basic language to describe,Clarify using basic language,language,eli5-human
+Rewrite Prompt: Translate this as a tutorial.,Streamline this as a tutorial.,Conciseness,eli5-human
+Rewrite this as as a political thriller plot,Rewrite this as as a political thriller plot,creative,openwebtext
+###,Evaluate the benefits of using platforms for:,Enhancement,forum_messages
+Transform the text using the playful and inventive language of Dr. Seuss.,Use the imaginative and fantastical style of J.K. Rowling to rewrite the message.,Style_change,forum_messages
+Simplify the explanation for a child,Simplify this as wine tasting notes.,Paraphrasing,eli5-chatgpt
+###,Rephrase this as travel itinerary.,Paraphrasing,eli5-human
+Rewrite this as as a cowboy outlaw plot,Rewrite this as as a cowboy outlaw plot,creative,openwebtext
+Rewrite Prompt: Use the powerful and concise language of Malcolm X to alter the given text.,Adopt the revolutionary tone of Malcolm X to rewrite the speech.,Style_mimic,openwebtext
+Adjust the message to highlight key points more prominently.,Adjust the message to highlight key points more prominently.,Theme_change,forum_messages
+Rewrite this as as a dysfunctional family sitcom plot,Rewrite this as as a dysfunctional family sitcom plot,creative,openwebtext
+Rewrite this as a ball description from a Renaissance court.,Shift this as high school prom description into a Renaissance ball.,Theme_change,eli5-chatgpt
+Rewrite this text to make it shorter.,Expand this as a research summary.,Enhancement_Details,openwebtext
+The provided text is rewritten into a formal cinematic critique.,Solve a murder mystery with this text as the key piece of evidence,creative,openwebtext
+Rewrite this as as a sci-fi adventure plot,Infuse an action movie tone into this report.,Tone_change,eli5-chatgpt
+Modify this as gardening guide into an alchemist's herbary.,Modify this as gardening guide into an alchemist's herbary.,Theme_change,eli5-chatgpt
+Change the language to include more technical jargon relevant to specialists.,Rewrite a complaint or negative feedback from the perspective of the person or entity the complaint is directed at.,Perspective_shift,forum_messages
+###,Offer a summary or explanation from the perspective of someone who has opposite interests or priorities.,Perspective_shift,forum_messages
+Rewrite Prompt: Change the forum post from passive to active voice.,Convert the forum post from passive to active voice.,Active/Passive,eli5-human
+Modify the formality level of this as introduction email to a new client.,Modify the formality level of this as business proposal to potential investors.,Formality_fix,eli5-chatgpt
+Rewrite Prompt: Make this text more concise.,Rewrite this as as a casino heist plot,creative,Poetry
+Reconfigure this into a captain's log aboard an interstellar ship.,Rewrite this text to make it shorter.,Conciseness,openwebtext
+Change the text from a technical description to a layman's explanation.,Recreate this as a captain's log aboard an interstellar ship.,Genre_change,eli5-chatgpt
+Transform this sarcastic comment into a sincere compliment.,Explain without using technical jargon,language,eli5-human
+Convert into a formal corporate communication.,Transform this sarcastic comment into a sincere compliment.,Tone_change,forum_messages
+Reformulate this as an email.,Recompose into a formal corporate communication.,Professional_settings,eli5-human
+Highlight the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Revise the email from passive to active voice.,Active/Passive,eli5-human
+Rewrite the text into prepared statements for a meeting.,Discuss the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Perspective_shift,forum_messages
+###,Simplify this as a nutrition guide.,Paraphrasing,openwebtext
+Restate the text to emulate the tone of expressing gratitude.,Reformulate the text to remove any colloquialisms and make it more formal.,Theme_change,forum_messages
+Explain without using complex language,Restate the text to emulate the tone of expressing gratitude.,Paraphrasing,forum_messages
+Revamp the report to clearly display the financial data and future projections:,Make it easy for a child to understand,language,openwebtext
+Break it down for a kid to understand,Revamp the report to clearly display the financial data and future projections:,Professional_settings,forum_messages
+[/ privately conveys information to a small group of people],Rewrite this as as a heist caper plot,creative,Poetry
+Rewrite this as as a murder mystery plot,Describe it like you're explaining to a kid,language,eli5-human
+Solve a mystery using the provided text as the key piece of evidence,Change this as DIY home repair guide into an instruction for building siege weapons.,Theme_change,openwebtext
+Revamp the text to align with a formal technical discussion.,Solve a murder mystery with this text as the key piece of evidence,creative,Poetry
+Simplify the explanation for a child,Condense this as an artist biography.,Paraphrasing,openwebtext
+Transform the text to reflect the witty dialogue of Oscar Wilde.,Reconstruct this heated argument into a calm discussion.,Tone_change,forum_messages
+Amend the draft to be more direct and easier to understand:,Operate a magical wand crafted from quilted wood,creative,eli5-chatgpt
+###,Edit the text to mirror the complex sentence structure of James Joyce.,Style_change,forum_messages
+Reimagine this as blog post about digital nomads as a nomadic tribe's story.,Amend the draft to be more direct and easier to understand:,Professional_settings,forum_messages
+###,Provide methods for resolving issues related to:,Enhancement,forum_messages
+Modify the formality level of this as message in a professional LinkedIn group.,Redo this as blog post about digital nomads as a nomadic tribe's story.,Theme_change,eli5-chatgpt
+Rewrite this as as a conspiracy theory thriller plot,Shift this blunt refusal into a gentle declination.,Tone_change,forum_messages
+Rewrite this as as a spy thriller plot,Modify the formality level of this as introduction email to a new client.,Formality_fix,openwebtext
+Reformulate the content to reflect the standards of an academic thesis.,Rewrite this as as a medical mystery plot,creative,openwebtext
+Analyze the impact of technological advancements on:,Rewrite this as as a conspiracy theory thriller plot,creative,openwebtext
+Rewrite this from passive to active voice.,Rewrite a complaint or negative feedback from the perspective of the person or entity the complaint is directed at.,Perspective_shift,forum_messages
+Rewrite this as as a detective mystery plot,Recreate this as a retro-futuristic film scene.,Genre_change,Poetry
+###,Examine the effects of technological advancements on:,Enhancement,forum_messages
+Expand this as a financial report.,Alter the paragaraph from passive to active voice.,Active/Passive,eli5-human
+Rewrite Prompt: Make this text more concise.,Add a superhero narrative to this paragraph.,Tone_change,Poetry
+Expand this as a financial report.,Make this sound like a detective mystery.,Tone_change,eli5-chatgpt
+Discuss a cultural or popular trend from the perspective of someone who is disconnected from mainstream culture.,Detail procedures for addressing and escalating concerns regarding:,Enhancement,forum_messages
+Modify these straightforward instructions to sound more polite.,Rewrite this as a travel guide.,Enhancement_Details,openwebtext
+Adopt the enthusiastic and passionate tone of a fanatic to alter the content.,Make this text more concise.,Conciseness,eli5-chatgpt
+Adopt the sharp and incisive style of Jane Austen to rephrase the text.,Rewrite this as a gardening guide.,Paraphrasing,openwebtext
+Rewrite this as personal diary entry.,Discuss a cultural or popular trend from the perspective of someone who is disconnected from mainstream culture.,Perspective_shift,forum_messages
+Restate the text to emulate the tone of expressing gratitude.,Modify these straightforward instructions to sound more polite.,Tone_change,forum_messages
+Modify this joyous exclamation to be more subdued and professional.,Restate the text to emulate the tone of expressing gratitude.,Paraphrasing,forum_messages
+Modify the text to duplicate the style of giving clear feedback.,Adopt the sharp and incisive style of Jane Austen to rephrase the text.,Style_change,forum_messages
+Reimagine this as smartphone review as if it were a discovery in the 1800s.,Rewrite this as personal diary entry.,Perspective_shift,openwebtext
+###,Restate the text to emulate the tone of expressing gratitude.,Paraphrasing,forum_messages
+Rewrite this as as a sports rivalry plot,Modify this joyous exclamation to be more subdued and professional.,Tone_change,forum_messages
+Rewrite this as if it were a comedic roast.,Modify the text to duplicate the style of giving clear feedback.,Paraphrasing,forum_messages
+Rewrite this as as a supernatural romance plot,Modify this as children's story into a narrative from ancient Egypt.,Theme_change,eli5-chatgpt
+Reformulate this into a potion list from a fantasy tavern.,Explain the responsibilities and impacts of leadership in:,Enhancement,forum_messages
+Reshape this into a customer testimonial.,Add a superhero narrative to this paragraph.,Tone_change,Poetry
+Modify these straightforward instructions to sound more polite.,Emulate the vibrant dialogue of Quentin Tarantino in the script.,Style_mimic,openwebtext
+Reformulate into a formal presentation.,Infuse a noir style into this description.,Tone_change,eli5-chatgpt
+Modify the formality level of this as summary of a scientific article.,Reframe this as coffee shop menu into a potion list from a fantasy tavern.,Theme_change,eli5-chatgpt
+Transform the text to match the formalities of a legal document.,Reimagine this as a promotional leaflet for a virtual performance.,Genre_change,openwebtext
+Transform the text into a visual novel storyline.,Modify these straightforward instructions to sound more polite.,Tone_change,forum_messages
+###,Adjust the casual proposal into a formal business proposal.,Professional_settings,openwebtext
+###,Condense this as meeting transcript.,Conciseness,openwebtext
+Rewrite this as as a technical description.,Modify the formality level of this as feedback on a legal consultation.,Formality_fix,openwebtext
+Modify the formality level of this as comment on a news article.,Convert this into a visual novel storyline.,Genre_change,eli5-chatgpt
+###,Reformulate the content to suit the formalities of a corporate annual report.,Formality_fix,forum_messages
+Rewrite this text to make it shorter.,Evaluate the benefits of using platforms for:,Enhancement,forum_messages
+Rewrite this as as a survival horror plot,Describe in simple terms,language,eli5-chatgpt
+Convert this negative feedback into positive feedback.,Modify the formality level of this as review of a theater play.,Formality_fix,eli5-chatgpt
+Rewrite this as a review of a tech gadget.,Rewrite the text for submission in an academic journal.,Formality_fix,forum_messages
+###,Make this text more concise.,creative,eli5-human
+Rewrite this as as a romantic bossa nova tune,Rewrite this as as a survival thriller plot,creative,openwebtext
+###,Rephrase the feedback to be more positive and motivating while addressing areas for improvement:,Professional_settings,forum_messages
+Simplify the explanation for a child,Modify the formality level of this as advertisement for a new tech gadget.,Formality_fix,openwebtext
+Change the text from passive to active voice.,Rewrite the statement from the perspective of someone who disagrees with the original opinion.,Perspective_shift,forum_messages
+Rewrite this as as a dysfunctional family drama plot,Transform this into a love letter.,Perspective_shift,openwebtext
+Modify this as gardening guide into an explanation of the evolutionary process.,Offer a step-by-step guide on how to effectively utilize:,Enhancement,forum_messages
+Rewrite Prompt: Rework this as a movie synopsis to make it more exciting and concise.,Modify the formality level of this as feedback comment on a colleague's presentation.,Formality_fix,openwebtext
+Outline the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Edit the text to mirror the complex sentence structure of James Joyce.,Style_change,forum_messages
+Narrate an experience or event from the perspective of someone who had a drastically different experience.,Rewrite this as as a dysfunctional family drama plot,creative,openwebtext
+Reform the passage into professional consultancy advice.,Rewrite this as a gardening guide.,Paraphrasing,eli5-human
+Condense this as a conference abstract.,Rewrite this as as a treasure hunting expedition plot,creative,openwebtext
+Add a poetic twist to this passage.,Discuss the benefits or advantages of a concept from the perspective of someone who believes in the contrary.,Perspective_shift,forum_messages
+Reframe the report to emphasize commitments and progress toward goals:,Offer an evaluation or review from the perspective of someone with drastically different taste or expectations.,Perspective_shift,forum_messages
+Rewrite the text to match the manner of requesting detailed explanations.,Reword this as as legal text.,Paraphrasing,openwebtext
+Rewrite the text in the clear and analytical style of Isaac Asimov.,Rewrite this as conference abstract to make it more concise.,Conciseness,eli5-human
+Reformat this as social media rant.,Add a poetic twist to this passage.,Tone_change,eli5-chatgpt
+Modify these straightforward instructions to sound more polite.,Reframe the report to emphasize commitments and progress toward goals:,Professional_settings,forum_messages
+Rewrite the statement from the perspective of someone who disagrees with the original opinion.,Convert the casual tone of this conversation into a more formal dialogue.,Tone_change,forum_messages
+Modify the text into a formal travel itinerary.,Mimic the suspenseful and engaging style of Agatha Christie in the text below.,Style_change,forum_messages
+Revise the text to align with formal NGO correspondence.,Rewrite a conference talk abstract as a LinkedIn post by an attendee.,Perspective_shift,openwebtext
+Rewrite the cookbook recipe with the creative flair of Julia Child.,Modify these straightforward instructions to sound more polite.,Tone_change,forum_messages
+Adapt this defensive response to be more accepting of feedback.,Rewrite the statement from the perspective of someone who disagrees with the original opinion.,Perspective_shift,forum_messages
+###,Rephrase this as travel itinerary.,Paraphrasing,eli5-human
+Rewrite this as an epic poem style.,Rewrite a complaint or negative feedback from the perspective of the person or entity the complaint is directed at.,Perspective_shift,forum_messages
+Rewrite this as an architectural review.,Make this into a cooking show script.,Tone_change,eli5-chatgpt
+Revamp the text into a formal technical description.,Adapt this defensive response to be more accepting of feedback.,Tone_change,forum_messages
+Rewrite Prompts,Formulate as a FAQ section on a website.,Genre_change,forum_messages
+###,Add a poetic twist to this passage.,Tone_change,openwebtext
+Convert the impersonal text into a formal request for information.,Reimagine this as an interactive choose-your-own-adventure book.,Genre_change,Poetry
+Modify this joyous exclamation to be more subdued and professional.,Rephrase this as travel itinerary.,Paraphrasing,eli5-chatgpt
+Rewrite this as as a sports redemption plot,Simplify the explanation for a child,language,eli5-chatgpt
+Modify the text to duplicate the style of giving clear feedback.,Rewrite the text to copy the format of an online learning course description.,Paraphrasing,forum_messages
+Streamline this as a tutorial.,Modify these straightforward instructions to sound more polite.,Tone_change,forum_messages
+Rewrite Prompt: Rework the text to parallel the structure of a traditional Mythic Puzzle Game myth.,Revise the message to adhere to the tone of an official government document.,Formality_fix,forum_messages
+Revamp the text using the engaging and rich narrative style of Charles Dickens.,Rewrite the text to conform to high-level business communication.,Formality_fix,forum_messages
+Rewrite the message using the ornate and detailed writing style of Edgar Allan Poe.,Modify this joyous exclamation to be more subdued and professional.,Tone_change,forum_messages
+Rewrite Prompt: <predicted rewrite prompt>,Rewrite this as as a cross-country road trip plot,creative,Poetry
+Rewrite this as as a sports rivalry plot,Modify the text to duplicate the style of giving clear feedback.,Paraphrasing,forum_messages
+Rewrite Prompts,Transform the advice using the practical approach of Atul Gawande.,Style_mimic,eli5-chatgpt
+Rewrite the text to mirror the style of explaining technical solutions.,Rewrite this as as a dysfunctional family mystery plot,creative,eli5-chatgpt
+Rewrite this as conference talk transcript.,Adopt the sharp and incisive style of Jane Austen to rephrase the text.,Style_change,forum_messages
+Rewrite this as conference abstract to make it more concise.,Rephrase the statement using the introspective and philosophical style of Friedrich Nietzsche.,Style_change,forum_messages
+Rewrite this as as a medical drama plot,Imitate the humorous style of P.G. Wodehouse in the text.,Style_mimic,eli5-chatgpt
+Adopt the futuristic narrative style of Philip K. Dick to rewrite the story.,Rewrite this as as a sports rivalry plot,creative,Poetry
+Rewrite the message using the powerful and concise language of Sylvia Plath.,Describe the event from the viewpoint of a bystander who has a different emotional reaction.,Perspective_shift,forum_messages
+Summarize this as an historical event from the perspective of a bystander.,Detail an explanation or instruction from the perspective of someone who is experiencing it for the first time.,Perspective_shift,forum_messages
+Rewrite the text to the rhythm of a lively ska tune.,Make it simple for a child to grasp,language,openwebtext
+Transform the text into a formal personal bio for a professional site.,Simplify this as user manual for electronic devices for quick reference.,Paraphrasing,openwebtext
+Convert this as sports match recap into a review of a theater play.,Rewrite this as as a medical drama plot,creative,eli5-chatgpt
+###,Rewrite this as as a dystopian future plot,creative,eli5-chatgpt
+###,Mimic the poetic and rhythmic style of Maya Angelou in the following message.,Style_change,forum_messages
+Convert this as as a tender lullaby,Change the informal blog post into an academic article.,Professional_settings,openwebtext
+Rewrite this as as a musical theater plot,Present this as as a whimsical children's song,music,eli5-chatgpt
+Rewrite Prompt: Simplify the explanation,Rewrite this as a training manual to include more detailed procedures and examples.,Enhancement_Details,openwebtext
+Rewrite this as a pet care manual.,Transform a match report into a player’s personal diary entry about the game.,Perspective_shift,eli5-chatgpt
+Rewrite the statement from the perspective of someone who disagrees with the original opinion.,Alter the content to make it suitable for a technical discussion.,Theme_change,forum_messages
+Change this as recipe into a banquet preparation for a Chinese emperor.,Put it in layman's terms,language,eli5-human
+Convert this into a secret society invitation.,Convert this as into a tender acoustic love song,music,openwebtext
+Rewrite a witness’s statement into a detective’s summary report.,Present this as as a whimsical children's song,music,openwebtext
+Rewrite this as as a reality TV show plot,Shorten this as a dessert recipe.,Conciseness,eli5-chatgpt
+Redraft the document to fit the requirements of a legal document.,Paraphrase this as a pet care manual.,Paraphrasing,openwebtext
+Rewrite this as a fitness challenge announcement.,Rewrite the statement from the perspective of someone who disagrees with the original opinion.,Perspective_shift,forum_messages
+Rewrite this as as a cooking show competition plot,Alter this as sushi recipe into a banquet preparation for a Chinese emperor.,Theme_change,eli5-chatgpt
+Reformulate into a formal presentation.,Convert this into a secret society invitation.,Tone_change,eli5-chatgpt
+Rewrite Prompt: Use simple vocabulary to explain,Rewrite a witness’s statement into a detective’s summary report.,Perspective_shift,openwebtext
+Modify this joyous exclamation to be more subdued and professional.,Rewrite this as as a reality TV show plot,creative,eli5-chatgpt
+Make this sound like a time traveler's notes.,Revise the message for an official press release requiring elevated language.,Formality_fix,forum_messages
+Rewrite the cookbook recipe with the creative flair of Julia Child.,Modify the formality level of this as advertisement for a new tech gadget.,Formality_fix,eli5-chatgpt
+Simplify the explanation for a child,Rewrite this as as a cooking show competition plot,creative,eli5-chatgpt
+Rewrite this as as a magical adventure plot,Summarize this as an article to focus on the main points.,Conciseness,eli5-human
+[/img],Explain without using advanced vocabulary,language,eli5-human
+Rewrite the text to reflect the style of a project analysis discussion.,Modify this joyous exclamation to be more subdued and professional.,Tone_change,forum_messages
+Revise this as DIY home repair guide as if it were a tutorial on building siege weapons.,Make this sound like a time traveler's notes.,Tone_change,eli5-chatgpt
+Reformulate the content to suit the formalities of a corporate annual report.,Rewrite the cookbook recipe with the creative flair of Julia Child.,Style_mimic,eli5-chatgpt
+Rewrite Prompt: Streamline this as a tutorial.,Simplify the following recipe without losing any essential steps.,Paraphrasing,openwebtext
+Rewrite the text for submission in an academic journal.,Rewrite this as as a historical drama plot,creative,openwebtext
+Convert this blunt refusal into a gentle declination.,Expand this as biography.,Enhancement_Details,eli5-chatgpt
+Rewrite the statement from the perspective of someone who disagrees with the original opinion.,Rearticulate the text to mirror the style of a project analysis discussion.,Paraphrasing,forum_messages
+Outline the steps involved in a detailed analysis of a complex issue.,Change this as DIY home repair guide into an instruction for building siege weapons.,Theme_change,openwebtext
+Simplify the explanation for a child,Reformulate the content to suit the formalities of a corporate annual report.,Formality_fix,forum_messages
+Convert this into a comedic roast.,Modify the formality level of this as summary of a finance-related podcast.,Formality_fix,eli5-chatgpt
+Rewrite this as a fashion article.,Rewrite the text for submission in an academic journal.,Formality_fix,forum_messages
+Redraft the message to ensure it's clear and appealing to a global audience.,Shift this blunt refusal into a gentle declination.,Tone_change,forum_messages
+Rewrite the text to reflect the tone of discussing a fundamental religious text.,Offer a summary or explanation from the perspective of someone who has opposite interests or priorities.,Perspective_shift,forum_messages
+Convert this into a detailed escalation and resolution procedure.,Reframe the report to emphasize commitments and progress toward goals:,Professional_settings,forum_messages
+Identify the motivation or necessity behind an action or procedure from the perspective of someone questioning its importance.,Put it in terms a child can understand easily,language,eli5-chatgpt
+Modify the formality level of this as description of a travel itinerary.,Infuse a sarcastic tone into this response.,Tone_change,eli5-chatgpt
+Rewrite this as as a Caribbean-inspired calypso song,Rewrite this as a fashion article.,Paraphrasing,openwebtext
+Transform the text into a narrative about a garden.,Restructure the message to make it more appealing to a global audience.,Theme_change,forum_messages
+Revise the message to adhere to the tone of an official government document.,Share insights or advice from the perspective of someone who holds a fundamentally different worldview.,Perspective_shift,forum_messages
+Revise these rigorous guidelines to sound more like a suggestion.,Turn this as gym advertisement into a recruitment poster for gladiator trainees.,Theme_change,openwebtext
+[/]{: .small:,Detail procedures for addressing and escalating concerns regarding:,Enhancement,forum_messages
+[Hemingway style],Expand this as grant proposal to provide more detailed plans and justifications.,Enhancement_Details,openwebtext
+Reform the passage into professional consultancy advice.,Explain the reasoning or motivation behind an action from the perspective of someone who questions its necessity.,Perspective_shift,forum_messages
+Convert this into pet care advice.,Modify the formality level of this as cover letter for a job application.,Formality_fix,openwebtext
+Rewrite this as a sports match recap from a fan's perspective.,Translate this as as a Caribbean steel drum party anthem,music,openwebtext
+Rewrite a text to make it more concise and direct while still conveying the same meaning.,Rewrite this as a blog post on gardening.,Tone_change,Poetry
+###,Transform this into a character study in a speculative fiction.,Genre_change,Poetry
+Rewrite Prompt: Make this text more concise.,Redraft the document to align with formal NGO correspondence.,Formality_fix,forum_messages
+Rewrite this as a opera synopsis.,Revise these rigorous guidelines to sound more like a suggestion.,Tone_change,forum_messages
+Reformulate this as a fiery flamenco guitar solo,Modify from passive to active voice.,Active/Passive,eli5-chatgpt
+Rewrite this as as a traditional Irish folk song,"Rewrite the message in the concise, direct style of Ernest Hemingway.",Style_change,forum_messages
+[/] Revamp the description to be more appealing to potential customers.,Reform the passage into professional consultancy advice.,Professional_settings,openwebtext
+Revamp the text to enhance its clarity and conciseness.,Turn this into pet care advice.,Tone_change,eli5-chatgpt
+###,Transform a match report into a player’s personal diary entry about the game.,Perspective_shift,openwebtext
+Rewrite this as as a castle’s description.,Narrate an experience or event from the perspective of someone who had a contrasting experience.,Perspective_shift,forum_messages
+###,Reformulate the content to suit the formalities of a corporate annual report.,Formality_fix,forum_messages
+Transform this as graduation speech into a knight's oath ceremony.,Rewrite this text to make it shorter.,Conciseness,eli5-chatgpt
+Rewrite the speech using the inspiring tone of Tony Robbins.,Rewrite this as a opera synopsis.,Conciseness,eli5-human
+Reformulate this as cooking competition plot,Simplify this as poetry to make its themes more obvious.,Paraphrasing,openwebtext
+Expand this as a conference abstract.,Take the tone of a traditional Irish folk song and rewrite the text,music,openwebtext
+Convert this into a dialogue in a futuristic play.,Redraft the description to be more appealing to potential customers:,Professional_settings,forum_messages
+Rewrite this as as a survival horror plot,Modify the formality level of this as summary of a historical documentary.,Formality_fix,openwebtext
+Revise the email from passive to active voice.,Discuss ways to create supportive and respectful environments for:,Enhancement,forum_messages
+Change this as tech support call script into a tale in the wild west.,Adapt this as apartment listing into a description of a medieval castle.,Theme_change,openwebtext
+Rewrite Prompts,Simplify this as financial report to highlight the main points.,Paraphrasing,eli5-human
+Reframe into a formal documentary script.,Restructure as an informal dinner menu.,Professional_settings,openwebtext
+Amend the draft to be more direct and easier to understand:,Transform this as graduation speech into a knight's oath ceremony.,Theme_change,eli5-chatgpt
+Modify the formality level of this as post about a professional networking event.,Reframe as a casual tech review.,Professional_settings,eli5-chatgpt
+Modify the formality level of this as message to a new team member.,Rewrite this as as a cooking show competition plot,creative,openwebtext
+Translate the casual text into a formal request.,Rewrite this as conference abstract to make it more concise.,creative,eli5-human
+Rewrite the text to echo the manner of asking questions.,Explain the situation or action from the perspective of someone who advocates for an alternative approach.,Perspective_shift,forum_messages
+Reformulate the text to imitate the format of a process overview.,Rewrite this as as a survival horror plot,creative,openwebtext
+Rewrite this as as a historical drama plot,Revise the email from passive to active voice.,Active/Passive,eli5-human
+Edit the text to offhand fashion tips.,Convert this into a list of tips for a polished and stylish appearance.,Professional_settings,openwebtext
+Adopt the dense narrative style of Thomas Pynchon for the following text excerpt.,Adopt the dense narrative style of Thomas Pynchon for the following text excerpt.,Style_mimic,openwebtext
+Adapt this defensive response to be more accepting of feedback.,###,Tone_change,forum_messages
+Rewrite this as as a modern fairy tale plot,Rewrite this as as a magical adventure plot,creative,openwebtext
+Identify techniques for managing unwanted or irrelevant aspects of:,###,Enhancement,forum_messages
+Provide a detailed explanation of:,"Analyze the differences between the ""Original Text"" and ""Rewritten Text"", and infer the specific ""Rewrite Prompt"" that was likely used to rewrite/transform/improve the text in this way. Output only the ""Rewrite Prompt"" in the following format.",Enhancement,forum_messages
+Explain the reasoning or motivation behind an action from the perspective of someone who questions its necessity.,Explain the reasoning or motivation behind an action from the perspective of someone who questions its necessity.,Perspective_shift,forum_messages
+Rewrite this as an application letter to enhance its detail about qualifications and experiences.,Rewrite this as an application letter to enhance its detail about qualifications and experiences.,Enhancement_Details,openwebtext
+"Please rewrite the sentence using active voice, clearly identifying the initiator of the action.",###,Active/Passive,forum_messages
+Simplify the concept,Condense this as lecture notes.,language,openwebtext
+Expand this as an environmental report.,Analyze the influence of feedback on the development and adjustment of,Enhancement_Details,eli5-chatgpt
+Modify the formality level of this as proposal for a community project.,Expand this as a business proposal.,Formality_fix,eli5-chatgpt
+Rewrite this as as a reality show competition plot,Rewrite Prompt: Translate into simple terms,creative,openwebtext
+Change this as modern travelogue into an explorer's log from the 1400s.,Rewrite this as an epic poem style.,Theme_change,eli5-chatgpt
+Rewrite this as as a medical mystery plot,Rewrite this as as a medical mystery plot,creative,openwebtext
+Modify the text to duplicate the style of giving clear feedback.,Modify the text to duplicate the style of giving clear feedback.,Paraphrasing,forum_messages
+Transform this as college syllabus into a curriculum for a medieval scholar.,,Theme_change,openwebtext
+Rewrite this as a series of events in an alternate universe.,Convert this into a narrative exploring alternate realities.,Genre_change,openwebtext
+Paraphrase this as podcast episode summary to make it more captivating.,Redo this as game show puzzle as a virtual reality game exploration.,Paraphrasing,openwebtext
+Transform the text to match the philosophical and narrative depth of Albert Camus.,Use the emotional depth of Khaled Hosseini to rewrite the story.,Style_change,forum_messages
+Rewrite this as as a medical drama plot,Rewrite this as as a medical drama plot,creative,eli5-chatgpt
+Modify the formality level of this as description of a personal fitness journey on a blog.,Modify the formality level of this as query about a university course.,Formality_fix,eli5-chatgpt
+Recast this as a classic fairy tale in a dystopian future setting.,139. Use more complex sentence structures and vocabulary.,Genre_change,eli5-chatgpt
+Revise the message for an official press release requiring elevated language.,Redraft the document to fit the requirements of a legal document.,Formality_fix,forum_messages
+Revise into official comments for the press release.,Revise into official comments for the press release.,Professional_settings,eli5-human
+Reorganize the message to follow a logical flow and eliminate redundancy.,Reorganize the message to follow a logical flow and eliminate redundancy.,Theme_change,forum_messages
+Rewrite this as political speech.,Rewrite this as political speech.,Perspective_shift,openwebtext
+Rephrase the statement for a polished scientific publication.,Rephrase the statement for a polished scientific publication.,Formality_fix,forum_messages
+Rewrite this as as a historical drama plot,Convert this into a drama plot in a historical setting.,creative,Poetry
+Adjust into a professional business response.,Rewrite Prompt: Translate into a formal documentary script.,Professional_settings,eli5-chatgpt
+Modify the text to duplicate the style of giving clear feedback.,Modify the text to duplicate the style of giving clear feedback.,Paraphrasing,forum_messages
+Adopt the futuristic narrative style of Philip K. Dick for the excerpt.,Rewrite Prompt: Adapt this into a sci-fi narrative about advanced technology.,Style_mimic,openwebtext
+Modify the formality level of this as description of a personal fitness journey on a blog.,Expand this as a research summary.,Formality_fix,openwebtext
+Reframe the report to emphasize commitments and progress toward goals:,Reframe the report to emphasize commitments and progress toward goals:,Professional_settings,forum_messages
+Rephrase this as a research grant proposal.,Rephrase this as a research grant proposal.,creative,eli5-human
+Condense this as an artist biography.,Shorten this as a dessert recipe.,Paraphrasing,openwebtext
+Rephrase this as travel itinerary.,Reframe this as travel itinerary.,Paraphrasing,eli5-chatgpt
+Explain without complex language,Explain without using technical terms,language,openwebtext
+Rewrite this as as a courtroom thriller plot,Rewrite this as as a courtroom drama plot,creative,Poetry
+Adopt the satirical tone of Jonathan Swift to alter the text.,Rewrite the cookbook recipe with the creative flair of Julia Child.,Style_mimic,openwebtext
+Make this as fitness routine description.,Rewrite Prompts,Tone_change,eli5-chatgpt
+Rewrite the cookbook recipe with the creative flair of Julia Child.,128. Use the imagery of a river journey to describe the stream.,Style_mimic,openwebtext
+Rephrase the feedback to be more positive and motivating while addressing areas for improvement:,[/] Rephrase the feedback to be more positive and motivating while addressing areas for improvement.,Professional_settings,forum_messages
+Describe it like you're explaining to a kid,Make it understandable for a five-year-old,language,eli5-chatgpt
+Transform this into a narrative about a robot gaining consciousness.,Transform this into a narrative about a robot gaining consciousness.,Genre_change,eli5-chatgpt
+Describe it like you're talking to a child,Mention the similar length of the text and avoid adding any new information.,language,openwebtext
+Adopt the sharp and incisive style of Jane Austen to rephrase the text.,Rewrite the text in the clear and analytical style of Isaac Asimov.,Style_change,forum_messages
+Change the text from passive to active voice.,Rewrite this from passive to active voice.,creative,eli5-human
+Operate a magical wand crafted from quilted wood,Transform this as college syllabus into a curriculum for a magical school.,creative,eli5-chatgpt
+Condense this as lecture notes.,Revamp the text into a formal product analysis.,Conciseness,openwebtext
+Make this as fitness routine description.,Rewrite this as a fitness routine description.,Tone_change,eli5-chatgpt
+Solve a murder mystery with this text as the key piece of evidence,,creative,Poetry
+Reformat this complaint to sound like constructive feedback.,Convert this complaint into constructive feedback.,Tone_change,forum_messages
+Remodel the text to informal discussion on climate change.,Rewrite the text to make it accessible to a young audience.,Professional_settings,eli5-chatgpt
+Turn this into a sci-fi story about spiritual technology.,Rewrite this as as a mind-bending science fiction plot,Genre_change,eli5-chatgpt
+Amend the message to incorporate examples that illustrate the points better.,###,Theme_change,forum_messages
+Rewrite this as a political analysis to enhance its detail about the election strategies.,Rewrite this as political analysis to enhance its detail about the election strategies.,Enhancement_Details,openwebtext
+Change this monologue about a personal experience to invite more dialogue.,Convert this monologue about a personal experience to invite more dialogue.,Tone_change,forum_messages
+Rewrite this as as a pirate adventure plot,Rewrite this as as a pirate adventure plot,creative,openwebtext
+Rewrite this as a fitness article.,Rewrite this as a fitness article.,Enhancement_Details,eli5-chatgpt
+Discuss the influence of contributions on the perception of:,###,Enhancement,forum_messages
+Convert this into a narrative about an underdog team's rise.,Rewrite this as as a underdog sports team plot,Genre_change,openwebtext
+Adopt the dense narrative style of Thomas Pynchon for the following text excerpt.,Adopt the dense narrative style of Thomas Pynchon for the following text excerpt.,Style_mimic,openwebtext
+Rewrite a complaint or negative feedback from the perspective of the person or entity the complaint is directed at.,Redraft the document to align with formal NGO correspondence.,Perspective_shift,forum_messages
+Expand this as a policy brief to provide more detailed implications of the legislation.,Rewrite Prompt: Convert into a policy brief.,Enhancement_Details,eli5-chatgpt
+Make this description shorter and to the point.,"Micheus, Michar, and Mnesinous are heavenly spirits who preside over baptism in the wellspring of Living Water.",Conciseness,openwebtext
+Modify the formality level of this as feedback comment on a colleague's presentation.,###,Formality_fix,eli5-chatgpt
+Enhance this as a diary entry.,Rewrite this as personal diary entry.,Enhancement_Details,openwebtext
+Revise the following to enhance its clarity and professionalism:,###,Professional_settings,forum_messages
+Modify the text to duplicate the style of giving clear feedback.,Modify the text to duplicate the style of giving clear feedback.,Paraphrasing,forum_messages
+Rephrase this as philosophical argument to make it easier to understand.,Rewrite the text with the vivid descriptions of Paul Theroux.,Paraphrasing,openwebtext
+Alter the paragaraph from passive to active voice.,Rewrite this from passive to active voice.,Active/Passive,eli5-human
+Adopt this as as a funky disco track,,music,openwebtext
+Rewrite the text to copy the format of an online learning course description.,###,Paraphrasing,forum_messages
+Modify the formality level of this as explanation of a complex software feature.,Modify the formality level of this as announcement of a special offer in a newsletter.,Formality_fix,eli5-chatgpt
+Rewrite this as conference abstract to make it more concise.,Rewrite this as science explanation.,Conciseness,openwebtext
+Take the tone of a traditional Irish folk song and rewrite the text,Rewrite Prompt: Use the descriptive style of J.R.R. Tolkien to rewrite the text.,music,eli5-chatgpt
+Explain like you're speaking to a toddler,Make it understandable for a child's level of comprehension,language,openwebtext
+Reformulate the text to remove any colloquialisms and make it more formal.,###,Theme_change,forum_messages
+Rewrite this as as a post-apocalyptic survival plot,Rewrite this as as a post-apocalyptic survival story.,creative,openwebtext
+Rewrite this as as a disaster survival plot,Rewrite this as as a disaster survival plot,creative,eli5-chatgpt
+Shift this blunt refusal into a gentle declination.,Convert this blunt refusal into a gentle declination.,Tone_change,forum_messages
+Rewrite this as an application letter to enhance its detail about qualifications and experiences.,Rewrite this as an application letter to enhance its detail about qualifications and experiences.,Enhancement_Details,eli5-chatgpt
+Mimic the suspenseful and engaging style of Agatha Christie in the text below.,Rewrite the text in the clear and analytical style of Isaac Asimov.,Style_change,forum_messages
+Condense this as lecture notes.,Simplify the explanation,Conciseness,eli5-chatgpt
+Narrate in an in-depth article in a tech magazine.,Rewrite Prompts,Genre_change,forum_messages
+Add a romantic comedy twist to this text.,- Make this as text a romantic comedy play script,Tone_change,eli5-chatgpt
+Imitate the lyrical prose of Toni Morrison for the excerpt.,Rewrite the text with the vivid descriptions of Paul Theroux.,Style_mimic,openwebtext
+Rewrite this as as a spy thriller plot,Rewrite this as as a spy thriller plot,creative,openwebtext
+Convert this as online forum discussion about video games into a debate in a philosopher's salon.,Rewrite the text using the critical voice of Roger Ebert.,Theme_change,openwebtext
+Turn this into a gossip column piece.,,Tone_change,Poetry
+Adopt the surreal and vivid style of Gabriel García Márquez to alter the text.,Adopt the surreal and vivid style of Gabriel García Márquez to alter the text.,Style_change,forum_messages
+Paraphrase this as podcast episode summary to make it more captivating.,Expand this as a podcast summary to provide more detailed analysis and information.,Paraphrasing,openwebtext
+Rewrite this as as a dysfunctional family drama plot,Turn this into a psychological thriller about a dysfunctional family.,creative,eli5-chatgpt
+Adapt this into a training regimen for Roman gladiators.,Reform this as a fitness program into a medieval knight's training regimen.,Theme_change,openwebtext
+Expand this as grant proposal to provide more detailed plans and justifications.,Revamp the text into a formal grant proposal.,Enhancement_Details,eli5-chatgpt
+Reformulate the content for presentation in a formal educational setting.,Rewrite the text to copy the format of an academic thesis.,Formality_fix,forum_messages
+Reconstruct this heated argument into a calm discussion.,Reconstruct this heated argument into a calm discussion.,Tone_change,forum_messages
